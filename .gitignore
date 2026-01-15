@@ -1,1 +1,17 @@
+# ===== Secrets =====
 .env
+
+# ===== Python =====
+.venv/
+__pycache__/
+*.pyc
+
+# ===== macOS =====
+.DS_Store
+
+# ===== Local data =====
+data/local_images/
+data/local_exports/
+
+# ===== Editor =====
+.vscode/
