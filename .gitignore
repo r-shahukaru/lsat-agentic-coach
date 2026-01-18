@@ -1,17 +1,16 @@
 # ===== Secrets =====
 .env
 
-# ===== Python =====
-.venv/
+# OS junk
+.DS_Store
 __pycache__/
 *.pyc
 
-# ===== macOS =====
-.DS_Store
-
 # ===== Local data =====
-data/local_images/
-data/local_exports/
+# Local data & outputs
+data/
+rag_corpus/
+*.json
 
 # ===== Editor =====
 .vscode/
