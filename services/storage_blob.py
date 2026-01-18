@@ -13,6 +13,7 @@ from __future__ import annotations
 import os
 from dataclasses import dataclass
 from azure.storage.blob import BlobServiceClient
+from azure.core.exceptions import ResourceNotFoundError
 
 
 import json
@@ -83,6 +84,28 @@ def upload_json_to_blob(storage: AzureBlobStorage, container: str, blob_name: st
     return blob_client.url
 
 
+def download_json_from_blob(
+    storage: AzureBlobStorage,
+    container: str,
+    blob_name: str,
+    *,
+    default: Any | None = None,
+) -> Any:
+    """Downloading a JSON blob and returning the parsed object.
+
+    If the blob does not exist and `default` is provided, returns `default`.
+    """
+    blob_client = storage._svc.get_blob_client(container=container, blob=blob_name)
+    try:
+        raw = blob_client.download_blob().readall()
+    except ResourceNotFoundError:
+        if default is not None:
+            return default
+        raise
+
+    return json.loads(raw.decode("utf-8"))
+
+
 def download_blob_bytes(storage: AzureBlobStorage, container: str, blob_name: str) -> bytes:
     """Downloading blob bytes."""
     blob_client = storage._svc.get_blob_client(container=container, blob=blob_name)
@@ -91,4 +114,9 @@ def download_blob_bytes(storage: AzureBlobStorage, container: str, blob_name: st
 
 def list_blobs(storage: AzureBlobStorage, container: str, prefix: str = "") -> list[str]:
     return storage.list_blobs(container=container, prefix=prefix)
+
+
+def list_blob_names(storage: AzureBlobStorage, container: str, prefix: str = "") -> list[str]:
+    """Alias for list_blobs(...) for readability in service layers."""
+    return list_blobs(storage=storage, container=container, prefix=prefix)
 
