@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q02",
+  "question": "No one wants this job as much as Joshua does, but he is not applying for it. It follows that there will not be any applicants, no matter how high the salary that is being offered.\n\n----- PAGE BREAK -----\n\n2. The flawed reasoning in the argument above most closely parallels that in which one of the following?\n\nA) Beth knows better than anyone else how to spot errors in a computer program, yet even she has not found any in this program so far. So it is clear that the errors must all be in the rest of the program.\nB) If anyone can decipher this inscription, it is Professor Álvarez, but she is so involved with her new research that it will be impossible to interest her in this sort of task. Therefore, all we can do now is hope to find someone else.\nC) Although he has the strongest motive of anyone for buying Anna's plot of land, Manfred is not pursuing the matter. Therefore, regardless of how low a price Anna is prepared to accept, she will be looking for a buyer in vain.\nD) The person initially most interested in obtaining the contract was Mr. Moore, but he of all people suddenly withdrew his bid. This means that, no matter how discouraged the other bidders had been, they will now redouble their efforts.\nE) Three times Paul would have liked to take advantage of a special vacation package for himself and his family, but each time he was indispensable at the factory just then. So the more seniority Paul acquires, the greater are the constraints on his personal life.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 2,
+  "source_folder": "data/local_images/lsat102/section2/q2",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

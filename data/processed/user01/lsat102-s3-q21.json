@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s3-q21",
+  "question": "Medieval Arabs had manuscripts of many ancient Greek texts, which were translated into Arabic when there was a demand for them. Medieval Arab philosophers were very interested in Aristotle's Poetics, an interest that evidently was not shared by medieval Arab poets, because a poet interested in the Poetics would certainly have wanted to read Homer, to whose epics Aristotle frequently refers. But Homer was not translated into Arabic until modern times.\n\n----- PAGE BREAK -----\n\n21. Which one of the following, if true, most strongly supports the argument above?\n\nA) A number of medieval Arab translators possessed manuscripts of the Homeric epics in their original Greek.\nB) Medieval Arabic story cycles, such as the Arabian Nights, are in some ways similar to parts of the Homeric epics.\nC) In addition to translating from Greek, medieval Arab translators produced Arabic editions of many works originally written in Indian languages and in Persian.\nD) Aristotle's Poetics has frequently been cited and commented on by modern Arab poets.\nE) Aristotle's Poetics is largely concerned with drama, and dramatic works were written and performed by medieval Arabs.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 21,
+  "source_folder": "data/local_images/lsat102/section3/q21",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

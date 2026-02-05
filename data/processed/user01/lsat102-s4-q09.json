@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s4-q09",
+  "question": "The Board of Trustees of the Federici Art Museum has decided to sell some works from its collection in order to raise the funds necessary to refurbish its galleries. Although this may seem like a drastic remedy, the curator has long maintained that among the paintings that the late Ms. Federici collected for the museum were several unsuccessful immature works by Renoir and Cézanne that should be sold because they are of inferior quality and so add nothing to the overall quality of the museum's collection. Hence, the board's action will not detract from the quality of the museum's collection.\n\n----- PAGE BREAK -----\n\n9. The conclusion drawn depends on which one of the following assumptions?\n\nA) Art speculators are unable to distinguish an inferior painting by Renoir from a masterpiece by him.\nB) All of the paintings that the board of trustees sells will be among those that the curator recommends selling.\nC) All of the paintings by Renoir and Cézanne that are owned by the Federici Art Museum were purchased by Ms. Federici herself.\nD) Only an avid collector of paintings by Cézanne would be willing to pay a high price for early works by this artist.\nE) A great work of art can be truly appreciated only if it is displayed in a carefully designed and well-maintained gallery.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 9,
+  "source_folder": "data/local_images/lsat102/section4/q9",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

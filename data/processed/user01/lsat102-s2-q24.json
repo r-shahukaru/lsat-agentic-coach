@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s2-q24",
+  "question": "Trade official: Country X deserves economic retribution for its protectionism. However, it is crucial that we recognize that there are overriding considerations in this case. We should still sell to X the agricultural equipment it ordered; there is high demand in our country for agricultural imports from X.\n\n----- PAGE BREAK -----\n\n24. The argument depends on assuming which one of the following principles?\n\nA) Agricultural components of international trade are more important than nonagricultural commodities.\nB) The ability to keep popular products available domestically is less important than our being able to enter international markets.\nC) We should never jeopardize the interests of our people to punish a protectionist country.\nD) In most cases, punishing a protectionist country should have priority over the interests of our people.\nE) We should balance the justice of an action with the consequences for our interests of undertaking that action.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 24,
+  "source_folder": "data/local_images/lsat102/section2/q24",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q25",
+  "question": "Jack's aunt gave him her will, asking him to make it public when she died; he promised to do so. After her death, Jack looked at the will; it stipulated that all her money go to her friend George. Jack knew that if he made the will public, George would squander the money, benefiting neither George nor anyone else. Jack also knew that if he did not make the will public, the money would go to his own mother, who would use it to benefit herself and others, harming no one. After reflection, he decided not to make the will public.\n\n----- PAGE BREAK -----\n\n25. Which one of the following principles, if valid, would require Jack to act as he did in the situation described?\n\nA) Duties to family members take priority over duties to people who are not family members.\nB) Violating a promise is impermissible whenever doing so would become known by others.\nC) One must choose an alternative that benefits some and harms no one over an alternative that harms some and benefits no one.\nD) When faced with alternatives it is obligatory to choose whichever one will benefit the greatest number of people.\nE) A promise becomes nonbinding when the person to whom the promise was made is no longer living.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 25,
+  "source_folder": "data/local_images/lsat102/section2/q25",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q06",
+  "question": "One test to determine whether a person has been infected with tuberculosis consists of injecting the person with proteins extracted from the tuberculosis bacterium. Once a person has been infected by a bacterium, the person's immune system subsequently recognizes certain proteins present in that bacterium and attacks the bacterium. This recognition also takes place in the test and results in a skin irritation at the injection site. Hence the physicians who designed the test reasoned that anyone who reacts in this manner to an injection with the tuberculosis proteins has been infected with tuberculosis.\n\n----- PAGE BREAK -----\n\n6. Which one of the following is an assumption on which the physicians' reasoning depends?\n\nA) All of the proteins present in disease-causing bacteria can be recognized by the body's immune system.\nB) Localized skin irritations are a characteristic symptom of tuberculosis in most people.\nC) The ability of the proteins present in the tuberculosis bacterium to trigger the skin irritation is exclusive to that bacterium.\nD) Some people who have been injected with proteins extracted from the tuberculosis bacterium will contract tuberculosis as a result of the injection.\nE) The body's immune system cannot recognize infectious bacteria unless there are sufficient quantities of the bacteria to cause overt symptoms of disease.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 6,
+  "source_folder": "data/local_images/lsat102/section2/q6",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

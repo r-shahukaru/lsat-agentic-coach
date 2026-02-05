@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q19",
+  "question": "When an ordinary piece of steel is put under pressure, the steel compresses; that is, its volume slightly decreases. Glass, however, is a fluid, so rather than compressing, it flows when put under pressure; its volume remains unchanged. Any portion of a sheet of glass that is under sustained pressure will very slowly flow to areas under less pressure. Therefore, if a single, extremely heavy object is placed in the middle of a horizontal sheet of glass of uniform thickness and if the glass is able to support the weight without cracking, then the sheet of glass will eventually .\n\n----- PAGE BREAK -----\n\n19. Which one of the following most logically completes the argument?\n\nA) become larger in size yet still be of uniform thickness\nB) flow toward the point at which the pressure of the object is greatest\nC) compress, although not as much as a piece of steel would\nD) divide into exactly two pieces that are equal in neither size nor shape to the original piece of glass\nE) be thinner in the portion of the glass that is under the pressure of the object than in those portions of the glass that are not under that pressure",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 19,
+  "source_folder": "data/local_images/lsat102/section3/q19",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

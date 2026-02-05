@@ -1,0 +1,15 @@
+{
+  "user_id": "user01",
+  "mcq_id": "lsat102-s4-q20",
+  "timestamp_utc": "2026-02-05T04:32:12.628325Z",
+  "selected": "C",
+  "is_correct": true,
+  "confidence": 5,
+  "time_spent_sec": 200,
+  "notes": "Everything else seems wrong. This matches exactly. The pattern of reasoning.",
+  "mode": "practice",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 20,
+  "correct_answer": "C"
+}

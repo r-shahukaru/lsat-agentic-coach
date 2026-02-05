@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q01",
+  "question": "Taxpayer: For the last ten years, Metro City's bridge-maintenance budget of $1 million annually has been a prime example of fiscal irresponsibility. In a well-run bridge program, the city would spend $15 million a year on maintenance, which would prevent severe deterioration, thus limiting capital expenses for needed bridge reconstruction to $10 million. However, as a result of its attempt to economize, the city is now faced with spending $400 million over two years on emergency reconstruction of its bridges.\n\n----- PAGE BREAK -----\n\n1. The main point of the taxpayer's argument is that Metro City\n\nA) should have budgeted substantially more money for maintenance of its bridges\nB) would have had a well-run bridge program if it had spent more money for reconstruction of its bridges\nC) is spending more than it needs to on maintenance of its bridges\nD) is economizing on its bridge program to save money in case of emergencies\nE) has bridges that are more expensive to maintain than they were to build",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 1,
+  "source_folder": "data/local_images/lsat102/section4/q1",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

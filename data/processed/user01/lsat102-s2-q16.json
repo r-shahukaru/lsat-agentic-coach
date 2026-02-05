@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q16",
+  "question": "Political scientist: The dissemination of political theories is in principle able to cause change in existing social structures. However, all political theories are formulated in the educationally privileged setting of the university, leading to convoluted language that is alienating to many individuals outside academia who would be important agents of change. It follows that, with respect to political theory, there is a special role for those outside the university context to render it into accessible, clear language.\n\n----- PAGE BREAK -----\n\n16. Which one of the following is an assumption on which the argument depends?\n\nA) Persons outside academic settings are the most important agents of change to the social structure.\nB) Persons within academic settings who formulate political theories attempt to change existing social structures.\nC) Persons outside academic settings are better left out of the initial formulation of political theories.\nD) Persons outside academic settings stand to gain more from the dissemination of political theories than persons inside.\nE) Persons within academic settings are less willing or less able than persons outside to write in a straightforward way.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 16,
+  "source_folder": "data/local_images/lsat102/section2/q16",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

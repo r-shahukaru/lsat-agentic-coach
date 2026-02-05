@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s3-q03",
+  "question": "In a recession, a decrease in consumer spending causes many businesses to lay off workers or even to close. Workers who lose their jobs in a recession usually cannot find new jobs. The result is an increase in the number of people who are jobless. Recovery from a recession is defined by an increase in consumer spending and an expansion of business activity that creates a need for additional workers. But businesspeople generally have little confidence in the economy after a recession and therefore delay hiring additional workers as long as possible.\n\n----- PAGE BREAK -----\n\n3. The statements above, if true, provide most support for which one of the following conclusions?\n\nA) Recessions are usually caused by a decrease in businesspeople's confidence in the economy.\nB) Governmental intervention is required in order for an economy to recover from a recession.\nC) Employees of businesses that close during a recession make up the majority of the workers who lose their jobs during that recession.\nD) Sometimes recovery from a recession does not promptly result in a decrease in the number of people who are jobless.\nE) Workers who lose their jobs during a recession are likely to get equally good jobs when the economy recovers.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 3,
+  "source_folder": "data/local_images/lsat102/section3/q3",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

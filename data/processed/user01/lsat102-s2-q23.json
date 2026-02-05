@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s2-q23",
+  "question": "Politician: Nobody can deny that homelessness is a problem, yet there seems to be little agreement on how to solve it. One thing, however, is clear: ignoring the problem will not make it go away. Only if the government steps in and provides the homeless with housing will this problem disappear, and this necessitates increased taxation. For this reason, we should raise taxes.\n\n----- PAGE BREAK -----\n\n23. Which one of the following principles, if valid, most supports the politician's argument?\n\nA) Only if a measure is required to solve a problem should it be adopted.\nB) Only if a measure is sufficient to solve a problem should it be adopted.\nC) If a measure is required to solve a problem, then it should be adopted.\nD) If a measure is sufficient to solve a problem, then it should be adopted.\nE) If a measure is sufficient to solve a problem, any steps necessitated by that measure should be adopted.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 23,
+  "source_folder": "data/local_images/lsat102/section2/q23",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q09",
+  "question": "Consumer advocate: Last year's worldwide alarm about a computer \"virus\"—a surreptitiously introduced computer program that can destroy other programs and data—was a fraud. Companies selling programs to protect computers against such viruses raised worldwide concern about the possibility that a destructive virus would be activated on a certain date. There was more smoke than fire, however; only about a thousand cases of damage were reported around the world. Multitudes of antivirus programs were sold, so the companies' warning was clearly only an effort to stimulate sales.\n\n----- PAGE BREAK -----\n\n9. The reasoning in the consumer advocate's argument is flawed because this argument\n\nA) restates its conclusion without attempting to offer a reason to accept it\nB) fails to acknowledge that antivirus programs might protect against viruses other than the particular one described\nC) asserts that the occurrence of one event after another shows that the earlier event was the cause of the later one\nD) uses inflammatory language as a substitute for providing any evidence\nE) overlooks the possibility that the protective steps taken did work and, for many computers, prevented the virus from causing damage",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 9,
+  "source_folder": "data/local_images/lsat102/section2/q9",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q08",
+  "question": "Knowledge of an ancient language is essential for reading original ancient documents. Most ancient historical documents, however, have been translated into modern languages, so scholars of ancient history can read them for their research without learning ancient languages. Therefore, aspirants to careers as ancient-history scholars no longer need to take the time to learn ancient languages.\n\n----- PAGE BREAK -----\n\n8. The argument is vulnerable to criticism on which one of the following grounds?\n\nA) It concludes that something is never necessary on the grounds that it is not always necessary.\nB) A statement of fact is treated as if it were merely a statement of opinion.\nC) The conclusion is no more than a restatement of the evidence provided as support of that conclusion.\nD) The judgment of experts is applied to a matter in which their expertise is irrelevant.\nE) Some of the evidence presented in support of the conclusion is inconsistent with other evidence provided.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 8,
+  "source_folder": "data/local_images/lsat102/section4/q8",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

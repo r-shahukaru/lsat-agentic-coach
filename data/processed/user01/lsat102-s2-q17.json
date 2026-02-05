@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q17",
+  "question": "Nicotine has long been known to cause heart attacks and high blood pressure. Yet a recent study has shown that the incidence of heart attacks and high blood pressure is significantly higher among cigarette smokers who do not chew tobacco than among nonsmokers exposed to an equal amount of nicotine through tobacco chewing.\n\n----- PAGE BREAK -----\n\n17. Which one of the following, if true, helps LEAST to resolve the apparent discrepancy described above?\n\nA) People who smoke but do not chew tobacco tend to exercise less than those who chew tobacco but do not smoke.\nB) Chemicals other than nicotine present in chewing tobacco but not present in cigarette smoke mitigate the effects that nicotine has on the cardiovascular system.\nC) People who chew tobacco but do not smoke tend to have healthier diets than those who smoke but do not chew tobacco.\nD) Chemicals other than nicotine present in chewing tobacco but not present in cigarette smoke can cause cancer.\nE) Chemicals other than nicotine present in cigarette smoke but not present in chewing tobacco raise blood pressure.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 17,
+  "source_folder": "data/local_images/lsat102/section2/q17",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s3-q20",
+  "question": "Anyone who insists that music videos are an art form should also agree that television gave rise to an art form, since television gave rise to music videos.\n\n----- PAGE BREAK -----\n\n20. The pattern of reasoning displayed in the argument above most closely parallels that displayed in which one of the following?\n\nA) Anyone who claims that all vegetables are nutritious should also agree that some vegetables are harmful if eaten in large quantities.\nB) Anyone who holds that avocados are a fruit should also hold that pound cake is lower in fat than some fruit, since pound cake is lower in fat than avocados.\nC) Anyone who dislikes tomatoes should also agree that some people do like tomatoes, if that person agrees that no taste is universal.\nD) A person who eats a variety of vegetables is probably well nourished, since most people who eat a variety of vegetables generally eat well-balanced meals.\nE) A person who claims to prefer fruit to vegetables should also prefer cake to bread, since fruit is sweeter than vegetables and cake is sweeter than bread.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 20,
+  "source_folder": "data/local_images/lsat102/section3/q20",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

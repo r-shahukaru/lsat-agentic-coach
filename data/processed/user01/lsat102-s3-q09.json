@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q09",
+  "question": "Ornithologist: The curvature of the claws of modern tree-dwelling birds enables them to perch in trees. The claws of Archeopteryx, the earliest known birdlike creature, show similar curvature that must have enabled the creature to perch on tree limbs. Therefore, Archeopteryx was probably a tree-dwelling creature.\n\nPaleontologist: No, the ability to perch in trees is not good evidence that Archeopteryx was a tree-dwelling bird. Chickens also spend time perched in trees, yet chickens are primarily ground-dwelling.\n\n----- PAGE BREAK -----\n\n9. Which one of the following is an assumption on which the ornithologist's reasoning depends?\n\nA) Modern tree-dwelling birds are the direct descendants of Archeopteryx.\nB) Archeopteryx made use of the curvature of its claws.\nC) There have never been tree-dwelling birds without curved claws.\nD) Archeopteryx was in fact the earliest birdlike creature.\nE) The curvature of the claws is the only available evidence for the claim that Archeopteryx was tree-dwelling.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 9,
+  "source_folder": "data/local_images/lsat102/section3/q9",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

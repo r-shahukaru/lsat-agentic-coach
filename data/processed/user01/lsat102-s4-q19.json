@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q19",
+  "question": "Inez: In these poor economic times, people want to be sure they are getting good value for their money. I predict people would be more willing to buy antiques at our fair if we first have the objects inspected by professional appraisers who would remove any objects of questionable authenticity.\n\nAnika: I disagree with your prediction. Our customers already are antiques experts. Furthermore, hiring professional appraisers would push up our costs considerably, thus forcing us to raise the prices on all our antiques.\n\n----- PAGE BREAK -----\n\n19. Anika's response proceeds by\n\nA) indicating that a particular plan would have an effect contrary to the anticipated effect\nB) claiming that a particular plan should not be adopted because, while effective, it would have at least one undesirable consequence\nC) arguing that an alternative plan could achieve a desired result more easily than the plan originally proposed\nD) questioning the assumption that authorities are available who have special knowledge of the problem under discussion\nE) offering a counterexample in order to show that a particular general claim is too broadly stated",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 19,
+  "source_folder": "data/local_images/lsat102/section4/q19",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

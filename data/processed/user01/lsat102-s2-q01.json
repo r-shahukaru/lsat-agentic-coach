@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s2-q01",
+  "question": "Psychiatrist: We are learning that neurochemical imbalances can cause behavior ranging from extreme mental illness to less serious but irritating behavior such as obsessive fantasizing, petulance, or embarrassment. These findings will promote compassion and tolerance when looking at a mental illness, quirk, or mere difference between two persons, since being mentally healthy can now begin to be seen as simply having the same neurochemical balances as most people.\n\n----- PAGE BREAK -----\n\n1. Which one of the following most accurately expresses the conclusion of the psychiatrist's argument?\n\nA) Understanding the role of the neurochemical in behavior will foster empathy toward others.\nB) Neurochemical imbalances can cause mental illness and other behaviors.\nC) Neurochemical balances and imbalances are the main determinants of mental behavior.\nD) Being mentally healthy is a matter of having the same neurochemical balances as most people.\nE) Advances in neurochemistry enhance our theories of mental illness.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 1,
+  "source_folder": "data/local_images/lsat102/section2/q1",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

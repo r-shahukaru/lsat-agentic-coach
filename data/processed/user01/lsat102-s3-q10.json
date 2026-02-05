@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q10",
+  "question": "There are rumors that the Premier will reshuffle the cabinet this week. However, every previous reshuffle that the Premier has made was preceded by meetings between the Premier and senior cabinet members. No such meetings have occurred or are planned. Therefore the rumors are most likely false.\n\n----- PAGE BREAK -----\n\n10. Which one of the following most accurately expresses a principle of reasoning employed by the argument?\n\nA) When a conclusion follows logically from a set of premises, the probability that the conclusion is true cannot be any less than the probability that the premises are all true.\nB) A hypothesis is undermined when a state of affairs does not obtain that would be expected to obtain if the hypothesis were true.\nC) It is possible for a hypothesis to be false even though it is supported by all the available data.\nD) Even if in the past a phenomenon was caused by particular circumstances, it is erroneous to assume that the phenomenon will recur only under the circumstances in which it previously occurred.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 10,
+  "source_folder": "data/local_images/lsat102/section3/q10",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q21",
+  "question": "Sarah: Some schools seek to foster a habit of volunteering in their students by requiring them to perform community service. But since a person who has been forced to do something has not really volunteered and since the habit of volunteering cannot be said to have been fostered in a person who has not yet volunteered for anything, there is no way this policy can succeed by itself.\n\nPaul: I disagree. Some students forced to perform community service have enjoyed it so much that they subsequently actually volunteer to do something similar. In such cases, the policy can clearly be said to have fostered a habit of volunteering.\n\n----- PAGE BREAK -----\n\n21. Paul responds to Sarah's argument using which one of the following argumentative techniques?\n\nA) He argues that Sarah is assuming just what she sets out to prove.\nB) He argues that Sarah's conception of what it means to volunteer excludes certain activities that ought to be considered instances of volunteering.\nC) He introduces considerations that call into question one of Sarah's assumptions.\nD) He questions Sarah's motives for advancing an argument against the school policy.\nE) He argues that a policy Sarah fails to consider could accomplish the same aim as the policy that Sarah considers.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 21,
+  "source_folder": "data/local_images/lsat102/section4/q21",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

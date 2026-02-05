@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q16",
+  "question": "Essayist: Wisdom and intelligence are desirable qualities. However, being intelligent does not imply that one is wise, nor does being wise imply that one is intelligent. In my own experience, the people I meet have one or the other of these qualities but not both.\n\n----- PAGE BREAK -----\n\n16. If the essayist's statements are true, then each of the following could be true EXCEPT:\n\nA) Most people are neither intelligent nor wise.\nB) Most people are both intelligent and wise.\nC) No one is both wise and intelligent.\nD) No one is either wise or intelligent.\nE) Many people are intelligent and yet lack wisdom.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 16,
+  "source_folder": "data/local_images/lsat102/section4/q16",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

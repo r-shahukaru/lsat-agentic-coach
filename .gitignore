@@ -13,22 +13,22 @@ data/local_images/
 data/raw_images/
 data/screenshots/
 
-# User data / logs (don’t commit)
-data/user-attempts/
-data/user-chats/
-data/runs/
-*.jsonl
+# # User data / logs (don’t commit)
+# data/user-attempts/
+# data/user-chats/
+# data/runs/
+# *.jsonl
 
-# Generated / large processed artifacts (usually don’t commit)
-data/processed/
+# # Generated / large processed artifacts (usually don’t commit)
+# data/processed/
 
-# Keep answer keys + small config files (DO commit)
-!data/answer-keys/
-!data/answer-keys/**/*.json
+# # Keep answer keys + small config files (DO commit)
+# !data/answer-keys/
+# !data/answer-keys/**/*.json
 
-# If you have small sample data you want in repo, allow it explicitly:
-!data/sample/
-!data/sample/**
+# # If you have small sample data you want in repo, allow it explicitly:
+# !data/sample/
+# !data/sample/**
 
 # rag corpus usually big -> don’t commit
 rag_corpus/

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q17",
+  "question": "People cannot devote themselves to the study of natural processes unless they have leisure, and people have leisure when resources are plentiful, not when resources are scarce. Although some anthropologists claim that agriculture, the cultivation of crops, actually began under conditions of drought and hunger, the early societies that domesticated plants must first have discovered how the plants they cultivated reproduced themselves and grew to maturity. These complex discoveries were the result of the active study of natural processes.\n\n----- PAGE BREAK -----\n\n17. The argument is structured to lead to the conclusion that\n\nA) whenever a society has plentiful resources, some members of that society devote themselves to the study of natural processes\nB) plants cannot be cultivated by someone lacking theoretical knowledge of the principles of plant generation and growth\nC) agriculture first began in societies that at some time in their history had plentiful resources\nD) early agricultural societies knew more about the natural sciences than did early nonagricultural societies\nE) early societies could have discovered by accident how the plants they cultivated reproduced and grew",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 17,
+  "source_folder": "data/local_images/lsat102/section3/q17",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "user_id": "user01",
+  "mcq_id": "lsat102-s3-q21",
+  "timestamp_utc": "2026-02-04T15:52:20.116563Z",
+  "selected": "A",
+  "is_correct": null,
+  "confidence": 2,
+  "time_spent_sec": 82,
+  "notes": "",
+  "mode": "practice",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 21,
+  "correct_answer": null
+}

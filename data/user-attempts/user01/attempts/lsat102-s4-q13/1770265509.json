@@ -1,0 +1,15 @@
+{
+  "user_id": "user01",
+  "mcq_id": "lsat102-s4-q13",
+  "timestamp_utc": "2026-02-05T04:25:09.719549Z",
+  "selected": "B",
+  "is_correct": true,
+  "confidence": 4,
+  "time_spent_sec": 784,
+  "notes": "If larger seeds ~> more germination ~> non self pollinating still higher in number  ",
+  "mode": "practice",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 13,
+  "correct_answer": "B"
+}

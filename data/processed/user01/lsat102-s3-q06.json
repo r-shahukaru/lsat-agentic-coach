@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q06",
+  "question": "Legislator: Your agency is responsible for regulating an industry shaken by severe scandals. You were given funds to hire 500 investigators to examine the scandals, but you hired no more than 400. I am forced to conclude that you purposely limited hiring in an attempt to prevent the full extent of the scandals from being revealed.\n\nRegulator: We tried to hire the 500 investigators but the starting salaries for these positions had been frozen so low by the legislature that it was impossible to attract enough qualified applicants.\n\n----- PAGE BREAK -----\n\n6. The regulator responds to the legislator's criticism by\n\nA) shifting the blame for the scandals to the legislature\nB) providing information that challenges the conclusion drawn by the legislator\nC) claiming that compliance with the legislature's mandate would have been an insufficient response\nD) rephrasing the legislator's conclusion in terms more favorable to the regulator\nE) showing that the legislator's statements are self-contradictory",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 6,
+  "source_folder": "data/local_images/lsat102/section3/q6",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

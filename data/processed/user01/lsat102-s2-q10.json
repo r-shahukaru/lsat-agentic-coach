@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q10",
+  "question": "Insects can see ultraviolet light and are known to identify important food sources and mating sites by sensing the characteristic patterns of ultraviolet light that these things reflect. Insects are also attracted to Glomosus spiderwebs, which reflect ultraviolet light. Thus, insects are probably attracted to these webs because of the specific patterns of ultraviolet light that these webs reflect.\n\n----- PAGE BREAK -----\n\n10. Which one of the following, if true, most strongly supports the argument?\n\nA) When webs of many different species of spider were illuminated with a uniform source of white light containing an ultraviolet component, many of these webs did not reflect the ultraviolet light.\nB) When the silks of spiders that spin silk only for lining burrows and covering eggs were illuminated with white light containing an ultraviolet component, the silks of these spiders reflected ultraviolet light.\nC) When webs of the comparatively recently evolved common garden spider were illuminated with white light containing an ultraviolet component, only certain portions of these webs reflected ultraviolet light.\nD) When Drosophila fruit flies were placed before a Glomosus web and a synthetic web of similar pattern that also reflected ultraviolet light and both webs were illuminated with white light containing an ultraviolet component, many of the fruit flies flew to the Glomosus web.\nE) When Drosophila fruit flies were placed before two Glomosus webs, one illuminated with white light containing an ultraviolet component and one illuminated with white light without an ultraviolet component, the majority flew to the ultraviolet reflecting web.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 10,
+  "source_folder": "data/local_images/lsat102/section2/q10",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

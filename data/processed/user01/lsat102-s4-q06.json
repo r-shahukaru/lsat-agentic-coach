@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s4-q06",
+  "question": "The male sage grouse has air sacs that, when not inflated, lie hidden beneath the grouse's neck feathers. During its spring courtship ritual, the male sage grouse inflates these air sacs and displays them to the female sage grouse. Some scientists hypothesize that this courtship ritual serves as a means for female sage grouse to select healthy mates.\n\n----- PAGE BREAK -----\n\n6. Which one of the following, if true, most strongly supports the scientists' hypothesis?\n\nA) Some female sage grouse mate with unhealthy male sage grouse.\nB) When diseased male sage grouse were treated with antibiotics, they were not selected by female sage grouse during the courtship ritual.\nC) Some healthy male sage grouse do not inflate their air sacs as part of the courtship ritual.\nD) Male sage grouse are prone to parasitic infections that exhibit symptoms visible on the birds' air sacs.\nE) The sage grouse is commonly afflicted with a strain of malaria that tends to change as the organism that causes it undergoes mutation.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 6,
+  "source_folder": "data/local_images/lsat102/section4/q6",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q05",
+  "question": "If the ivory trade continues, experts believe, the elephant will soon become extinct in Africa, because poaching is rife in many areas. A total ban on ivory trading would probably prevent the extinction. However, the country of Zimbabwe—which has virtually eliminated poaching within its borders and which relies on income from carefully culling elephant herds that threaten to become too big—objects to such a ban. Zimbabwe holds that the problem lies not with the ivory trade but with the conservation policies of other countries.\n\n----- PAGE BREAK -----\n\n5. Which one of the following principles forms a logical basis for Zimbabwe's objection to a ban?\n\nA) International measures to correct a problem should not adversely affect countries that are not responsible for the problem.\nB) Freedom of trade is not a right but a consequence of agreements among nations.\nC) Respecting a country's sovereignty is more important than preventing the extinction of a species.\nD) Prohibitions affecting several countries should be enforced by a supranational agency.\nE) Effective conservation cannot be achieved without eliminating poaching.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 5,
+  "source_folder": "data/local_images/lsat102/section4/q5",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q11",
+  "question": "Carl: Researchers who perform operations on animals for experimental purposes are legally required to complete detailed pain protocols indicating whether the animals will be at risk of pain and, if so, what steps will be taken to minimize or alleviate it. Yet when human beings undergo operations, such protocols are never required. If lawmakers were as concerned about human beings as they seem to be about animals, there would be pain protocols for human beings too.\n\nDebbie: But consider this: a person for whom a doctor wants to schedule surgery can simply be told what pain to expect and can then decide whether or not to undergo the operation. So you see, pain protocols are unnecessary for human beings.\n\n----- PAGE BREAK -----\n\n11. Debbie attempts to counter Carl's argument by\n\nA) showing that one of the claims on which Carl bases his conclusion is inaccurate\nB) pointing out a relevant difference to undermine an analogy on which Carl bases his conclusion\nC) claiming that Carl's argument should be rejected because it is based on an appeal to sentimentality rather than on reasoned principles\nD) drawing an analogy that illustrates a major flaw in Carl's argument\nE) offering a specific example to demonstrate that Carl's argument is based on a claim that can be neither confirmed nor disproved",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 11,
+  "source_folder": "data/local_images/lsat102/section3/q11",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

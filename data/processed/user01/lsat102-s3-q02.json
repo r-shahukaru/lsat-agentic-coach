@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q02",
+  "question": "A large number of drivers routinely violate highway speed limits. Since driving at speeds that exceed posted limits is a significant factor in most accidents, installing devices in all cars that prevent those cars from traveling faster than the speed limit would prevent most accidents.\n\n----- PAGE BREAK -----\n\n2. Which one of the following is an assumption on which the argument depends?\n\nA) A person need not be a trained mechanic to install the device properly.\nB) Most accidents are caused by inexperienced drivers.\nC) A driver seldom needs to exceed the speed limit to avoid an accident when none of the other drivers involved are violating the speed limit.\nD) Most drivers who exceed the speed limit do so unintentionally.\nE) Even if the fines for speed-limit violations were increased, the number of such violations would still not be reduced.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 2,
+  "source_folder": "data/local_images/lsat102/section3/q2",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

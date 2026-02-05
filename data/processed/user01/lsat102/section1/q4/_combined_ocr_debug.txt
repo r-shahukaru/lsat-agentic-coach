@@ -1,0 +1,64 @@
+Most office workers assume that the messages they send to
+Questions about electronic mail privacy have also arisen in
+each other via electronic mail are as private as a telephone call
+or a face-to-face meeting. That assumption is wrong. Although it
+the private sector. Recently, two employees of an automotive
+company were discovered to have been communicating
+is illegal in many areas for an employer to eavesdrop on private
+disparaging information about their supervisor via electronic
+conversations or telephone calls-even if they take place on a
+mail. The supervisor, who had been monitoring the
+company-owned telephone-there are no clear rules governing
+communication, threatened to fire the employees. When the
+electronic mail. In fact, the question of how private electronic
+employees filed a grievance complaining that their privacy had
+mail transmissions should be has emerged as one of the more
+complicated legal issues of the electronic age.
+been violated, they were let go. Later, their court case for
+unlawful termination was dismissed; the company's lawyers
+People's opinions about the degree of privacy that electronic
+successfully argued that because the company owned the
+mail should have vary depending on whose electronic mail
+computer system, its supervisors had the right to read anything
+system is being used and who is reading the messages. Does a
+created on it.
+government office, for example, have the right to destroy
+In some areas, laws prohibit outside interception of electronic
+electronic messages created in the course of running the
+mail by a third party without proper authorization such as a
+government, thereby denying public access to such documents?
+search warrant. However, these laws do not cover "inside"
+Some hold that government offices should issue guidelines that
+interception such as occurred at the automotive company. In the
+allow their staff to delete such electronic records, and defend
+past, courts have ruled that interoffice communications may be
+this practice by claiming that the messages thus deleted already
+considered private only if employees have a "reasonable
+exist in paper versions whose destruction is forbidden.
+expectation" of privacy when they send the messages. The fact
+Opponents of such practices argue that the paper versions often
+is that no absolute guarantee of privacy exists in any computer
+omit such information as who received the messages and when
+system. The only solution may be for users to scramble their
+they received them, information commonly carried on electronic
+own messages with encryption codes; unfortunately, such
+mail systems. Government officials, opponents maintain, are
+complex codes are likely to undermine the principal virtue of
+civil servants; the public should thus have the right to review any
+electronic mail: its convenience.
+documents created during the conducting of government
+business.
+
+----- PAGE BREAK -----
+
+4. Based on the passage, the author's attitude toward
+interception of electronic mail can most accurately be
+described as
+A outright disapproval of the practice
+B
+support for employers who engage in it
+10
+support for employees who lose their jobs because of it
+D
+intellectual interest in its legal issues
+cynicism about the motives behind the practice

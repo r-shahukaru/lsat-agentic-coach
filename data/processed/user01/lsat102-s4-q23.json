@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s4-q23",
+  "question": "Only computer scientists understand the architecture of personal computers, and only those who understand the architecture of personal computers appreciate the advances in technology made in the last decade. It follows that only those who appreciate these advances are computer scientists.\n\n----- PAGE BREAK -----\n\n23. Which one of the following most accurately describes a flaw in the reasoning in the argument?\n\nA) The argument contains no stated or implied relationship between computer scientists and those who appreciate the advances in technology in the last decade.\nB) The argument ignores the fact that some computer scientists may not appreciate the advances in technology made in the last decade.\nC) The argument ignores the fact that computer scientists may appreciate other things besides the advances in technology made in the last decade.\nD) The premises of the argument are stated in such a way that they exclude the possibility of drawing any logical conclusion.\nE) The premises of the argument presuppose that everyone understands the architecture of personal computers.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 23,
+  "source_folder": "data/local_images/lsat102/section4/q23",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s2-q08",
+  "question": "Toddlers are not being malicious when they bite people. For example, a child may want a toy, and feel that the person he or she bites is preventing him or her from having it.\n\n----- PAGE BREAK -----\n\n8. The situation as described above most closely conforms to which one of the following generalizations?\n\nA) Biting people is sometimes a way for toddlers to try to solve problems.\nB) Toddlers sometimes engage in biting people in order to get attention from adults.\nC) Toddlers mistakenly believe that biting people is viewed as acceptable behavior by adults.\nD) Toddlers do not recognize that by biting people they often thwart their own ends.\nE) Resorting to biting people is in some cases an effective way for toddlers to get what they want.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 8,
+  "source_folder": "data/local_images/lsat102/section2/q8",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

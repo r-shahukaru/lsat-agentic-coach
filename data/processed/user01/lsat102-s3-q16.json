@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q16",
+  "question": "Motorcoach driver: Professional drivers spend much more time driving, on average, than do other people and hence are more competent drivers than are other, less experienced drivers. Therefore, the speed limit on major highways should not be reduced, because that action would have the undesirable effect of forcing some people who are now both law-abiding and competent drivers to break the law.\n\nPolice officer: All drivers can drive within the legal speed limit if they wish, so it is not true to say that reducing the speed limit would be the cause of such illegal behavior.\n\n----- PAGE BREAK -----\n\n16. The point at issue between the motorcoach driver and the police officer is whether\n\nA) it would be desirable to reduce the speed limit on major highways\nB) professional drivers will drive within the legal speed limit if that limit is reduced\nC) reducing the speed limit on major highways would cause some professional drivers to break the law\nD) professional drivers are more competent drivers than are other, less experienced drivers\nE) all drivers wish to drive within the speed limit",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 16,
+  "source_folder": "data/local_images/lsat102/section3/q16",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

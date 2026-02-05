@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s4-q13",
+  "question": "Unlike other primroses, self-pollinating primroses do not need to rely on insects for pollination. In many years insect pollinators are scarce, and in those years a typical non-self-pollinating primrose produces fewer seeds than does a typical self-pollinating primrose. In other years, seed production is approximately equal. Thus, self-pollinating primroses have the advantage of higher average seed production. Aside from seed production, these self-pollinating primroses are indistinguishable from non-self-pollinating primroses. Nevertheless, self-pollinating primrose plants remain rare among primroses.\n\n----- PAGE BREAK -----\n\n13. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?\n\nA) Insects that collect pollen from primroses do not discriminate between self-pollinating primroses and non-self-pollinating primroses.\nB) When insect pollinators are scarce, non-self-pollinating primroses produce larger seeds that are more likely to germinate than are seeds from self-pollinating primroses.\nC) Self-pollinating primroses that are located in areas with few insects produce no fewer seeds than do self-pollinating primroses that are located in areas with many insects.\nD) Many primroses are located in areas in which the soil conditions that are optimal for seed germination are not present.\nE) Self-pollinating primroses can be assisted by insects during pollination but do not require the assistance of insects to be pollinated.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 13,
+  "source_folder": "data/local_images/lsat102/section4/q13",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

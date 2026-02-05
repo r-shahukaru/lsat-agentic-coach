@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q14",
+  "question": "Numismatist: In medieval Spain, most gold coins were minted from gold mined in West Africa, in the area that is now Senegal. The gold mined in this region was the purest known. Its gold content of 92 percent allowed coins to be minted without refining the gold, and indeed coins minted from this source of gold can be recognized because they have that gold content. The mints could refine gold and produced other kinds of coins that had much purer gold content, but the Senegalese gold was never refined.\n\n----- PAGE BREAK -----\n\n14. As a preliminary to negotiating prices, merchants selling goods often specified that payment should be in the coins minted from Senegalese gold. Which one of the following, if true, most helps to explain this preference?\n\nA) Because refined gold varied considerably in purity, specifying a price as a number of refined-gold coins did not fix the quantity of gold received in payment.\nB) During this period most day-to-day trading was conducted using silver coins, though gold coins were used for costly transactions and long-distance commerce.\nC) The mints were able to determine the purity, and hence the value, of gold coins by measuring their density.\nD) Merchants obtaining gold to resell for use in jewelry could not sell the metal unless it was first refined.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 14,
+  "source_folder": "data/local_images/lsat102/section2/q14",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

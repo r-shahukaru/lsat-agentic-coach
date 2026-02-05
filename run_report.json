@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-01-31T14:54:29.042046+00:00",
+  "user": "user01",
+  "input_dir": "data/local_images/lsat102/section1/q1",
+  "limit": 20,
+  "ok": 3,
+  "fail": 0,
+  "results": [
+    {
+      "file": "data/local_images/lsat102/section1/q1/test2-1-passage.png",
+      "status": "OK",
+      "output": {
+        "path": "data/local_images/lsat102/section1/q1/test2-1-passage.png",
+        "question_id": "temp_qid",
+        "stem": "Most office workers assume that the messages they send to each other via electronic mail are as private as a telephone call or a face-to-face meeting: That assumption is wrong: Although it is illegal in many areas for an employer to eavesdrop on private conversations or telephone calls ~even if they take place on a company-owned telephone ~there are no clear rules governing electronic mail. In fact; the question of how private electronic mail transmissions should be has emerged as one of the more complicated legal issues of the electronic age. People's opinions about the degree of privacy that electronic mail should have vary depending on whose electronic mail system is being used and who is reading the messages. Does a government office, for example, have the right to destroy electronic messages created in the course of running the government;, thereby denying public access to such documents? Some hold that government offices should issue guidelines that allow their staff to delete such electronic records, and defend this practice by claiming that the messages thus deleted already exist in paper versions whose destruction is forbidden: Opponents of such practices argue that the paper versions often omit such information as who received the messages and when they received them, information commonly carried on electronic mail systems. Government officials, opponents maintain, are civil servants; the public should thus have the right to review any documents created during the conducting of government business\nQuestions about electronic mail privacy have also arisen in the private sector Recently, two employees of an automotive company were discovered to have been communicating disparaging information about their supervisor via electronic mail: The supervisor; who had been monitoring the communication, threatened to fire the employees When the employees filed a grievance complaining that their privacy had been violated, they were let go. Later; their court case for unlawful termination was dismissed; the company's lawyers successfully argued that because the company owned the computer system, its supervisors had the right to read anything created on it.\nIn some areas, laws prohibit outside interception of electronic mail by a third party without proper authorization such as a search warrant. However; these laws do not cover \"inside\" interception such as occurred at the automotive company: In the past, courts have ruled that interoffice communications may be considered private only if employees have a \"reasonable expectation\" of privacy when they send the messages. The fact is that no absolute guarantee of privacy exists in any computer system: The only solution may be for users to scramble their own messages with encryption codes; unfortunately, such complex codes are likely to undermine the principal virtue of electronic mail: its convenience_",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "file": "data/local_images/lsat102/section1/q1/test2-2-1-mcq.png",
+      "status": "OK",
+      "output": {
+        "path": "data/local_images/lsat102/section1/q1/test2-2-1-mcq.png",
+        "question_id": "temp_qid",
+        "stem": "1. Which one of the following statements most accurately summarizes the main point of the passage?\nUntil the legal questions surrounding the privacy of electronic mail in both the public and private sectors have been resolved, office workers will need to scramble their electronic mail messages with encryption codes.\nThe legal questions surrounding the privacy of electronic mail in the workplace can best be resolved by treating such communications as if they were as private as telephone conversations or face-to-face meetings.\nAny attempt to resolve the legal questions surrounding the privacy of electronic mail in the workplace must take into account the essential difference between public- sector and private-sector business.\nAt present; in both the public and private sectors, there seem to be no clear general answers to the legal questions surrounding the privacy of electronic mail in the workplace.",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "file": "data/local_images/lsat102/section1/q1/test2-2-2-mcq.png",
+      "status": "OK",
+      "output": {
+        "path": "data/local_images/lsat102/section1/q1/test2-2-2-mcq.png",
+        "question_id": "temp_qid",
+        "stem": "The legal questions surrounding the privacy of electronic mail in the workplace can best be resolved by allowing supervisors in public-sector but not private- sector offices to monitor their employees' communications:",
+        "subtype": "assumption"
+      }
+    }
+  ]
+}

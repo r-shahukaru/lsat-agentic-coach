@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q12",
+  "question": "Carl: Researchers who perform operations on animals for experimental purposes are legally required to complete detailed pain protocols indicating whether the animals will be at risk of pain and, if so, what steps will be taken to minimize or alleviate it. Yet when human beings undergo operations, such protocols are never required. If lawmakers were as concerned about human beings as they seem to be about animals, there would be pain protocols for human beings too.\n\nDebbie: But consider this: a person for whom a doctor wants to schedule surgery can simply be told what pain to expect and can then decide whether or not to undergo the operation. So you see, pain protocols are unnecessary for human beings.\n\n----- PAGE BREAK -----\n\n12. Which one of the following, if true, most seriously weakens the argument made by Debbie in response to Carl's argument?\n\nA) Not all operations that are performed on human beings are painful.\nB) Some experimentation that is now done on animals need not be done at all.\nC) Preparing pain protocols is not a time-consuming or costly procedure.\nD) Some surgical operations performed on infants are painful.\nE) Unalleviated pain after an operation tends to delay the healing process.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 12,
+  "source_folder": "data/local_images/lsat102/section3/q12",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

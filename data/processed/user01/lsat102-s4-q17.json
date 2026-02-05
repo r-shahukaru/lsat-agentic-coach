@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q17",
+  "question": "Concerned citizen:\n\nThe mayor, an outspoken critic of the proposed restoration of city hall, is right when he notes that the building is outdated, but that the restoration would be expensive at a time when the budget is already tight. We cannot afford such a luxury item in this time of financial restraint, he says. However, I respectfully disagree. The building provides the last remaining link to the days of the city's founding, and preserving a sense of municipal history is crucial to maintaining respect for our city government and its authority. So to the question, \"Can we really afford to?\" I can only respond, \"Can we afford not to?\"\n\n----- PAGE BREAK -----\n\n17. Which one of the following most accurately characterizes a flaw in the concerned citizen's argument?\n\nA) The argument is solely an emotional appeal to history.\nB) The argument ambiguously uses the word \"afford.\"\nC) The argument inappropriately appeals to the authority of the mayor.\nD) The argument incorrectly presumes that the restoration would be expensive.\nE) The argument inappropriately relies on the emotional connotations of words such as \"outdated\" and \"luxury.\"",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 17,
+  "source_folder": "data/local_images/lsat102/section4/q17",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

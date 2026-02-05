@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q20",
+  "question": "Physicist: Determinism is the view that every event has a preceding cause sufficient for its occurrence. That is, if determinism is true, then the events that are presently occurring could not have failed to occur given the state of the universe a moment ago. Determinism, however, is false because it is impossible to know the complete state of the universe at any given time since it is impossible to measure accurately both the position and velocity of any given subatomic particle at a particular time.\n\n----- PAGE BREAK -----\n\n20. The physicist's reasoning is most vulnerable to criticism on which one of the following grounds?\n\nA) That it is impossible to measure accurately both the position and velocity of any given subatomic particle does not imply that it is impossible to know either the position or velocity of all subatomic particles.\nB) That the complete state of the universe at any given time is unknowable does not imply that the states at that time of the individual subatomic particles making it up are unknowable.\nC) That it is impossible to measure accurately both the position and velocity of any given subatomic particle at a particular time does not imply that its position or velocity cannot be accurately measured separately.\nD) That it is impossible to know the complete state of the universe at any given time does not imply that there is no complete state of the universe at that time.\nE) That the position and velocity of any given subatomic particle cannot be jointly measured with accuracy does not imply that this is the case for the position and velocity of all subatomic particles.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 20,
+  "source_folder": "data/local_images/lsat102/section2/q20",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

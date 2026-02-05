@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s3-q04",
+  "question": "Scientists analyzing air bubbles that had been trapped in Antarctic ice during the Earth's last ice age found that the ice-age atmosphere had contained unusually large amounts of ferrous material and surprisingly small amounts of carbon dioxide. One scientist noted that algae absorb carbon dioxide from the atmosphere. The scientist hypothesized that the ferrous material, which was contained in atmospheric dust, had promoted a great increase in the population of Antarctic algae such as diatoms.\n\n----- PAGE BREAK -----\n\n4. Which one of the following, if true, would most seriously undermine the scientist's hypothesis?\n\nA) Diatoms are a microscopic form of algae that has remained largely unchanged since the last ice age.\nB) Computer models suggest that a large increase in ferrous material today could greatly promote the growth of oceanic algae.\nC) The dust found in the air bubbles trapped in Antarctic ice contained other minerals in addition to the ferrous material.\nD) Sediment from the ocean floor near Antarctica reflects no increase, during the last ice age, in the rate at which the shells that diatoms leave when they die accumulated.\nE) Algae that currently grow in the oceans near Antarctica do not appear to be harmed by even a large increase in exposure to ferrous material.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 4,
+  "source_folder": "data/local_images/lsat102/section3/q4",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

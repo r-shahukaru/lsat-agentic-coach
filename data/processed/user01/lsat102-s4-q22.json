@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s4-q22",
+  "question": "Sarah: Some schools seek to foster a habit of volunteering in their students by requiring them to perform community service. But since a person who has been forced to do something has not really volunteered and since the habit of volunteering cannot be said to have been fostered in a person who has not yet volunteered for anything, there is no way this policy can succeed by itself.\n\nPaul: I disagree. Some students forced to perform community service have enjoyed it so much that they subsequently actually volunteer to do something similar. In such cases, the policy can clearly be said to have fostered a habit of volunteering.\n\n----- PAGE BREAK -----\n\n22. The main point at issue between Sarah and Paul is whether\n\nA) there are any circumstances under which an individual forced to perform a task can correctly be said to have genuinely volunteered to perform that task\nB) being forced to perform community service can provide enjoyment to the individual who is forced to perform such service\nC) being forced to perform community service can by itself encourage a genuine habit of volunteering in those students who are forced to perform such service\nD) it is possible for schools to develop policies that foster the habit of volunteering in their students\nE) students who develop a habit of volunteering while in school are inclined to perform community service later in their lives",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 22,
+  "source_folder": "data/local_images/lsat102/section4/q22",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

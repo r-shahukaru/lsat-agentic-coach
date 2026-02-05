@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q05",
+  "question": "Advances in photocopying technology allow criminals with no printing expertise to counterfeit paper currency. One standard anticounterfeiting technique, microprinting, prints paper currency with tiny designs that cannot be photocopied distinctly. Although counterfeits of microprinted currency can be detected easily by experts, such counterfeits often circulate widely before being detected. An alternative, though more costly, printing technique would print currency with a special ink. Currency printed with the ink would change color depending on how ordinary light strikes it, whereas photocopied counterfeits of such currency would not. Because this technique would allow anyone to detect photocopied counterfeit currency easily, it should be adopted instead of microprinting, despite the expense.\n\nA INCORRECT\nThe longer the interval between the time a counterfeit bill passes into circulation and the time the counterfeit is detected, the more difficult it is for law enforcement officials to apprehend the counterfeiter.\n\nB CORRECT\nSophisticated counterfeiters could produce currency printed with the special ink but cannot duplicate microprinted currency exactly.\n\nC INCORRECT\nFurther advances in photocopying technology will dramatically increase the level of detail that photocopies can reproduce.\n\nD INCORRECT\nThe largest quantities of counterfeit currency now entering circulation are produced by ordinary criminals who engage in counterfeiting only briefly.\n\nE INCORRECT\nIt is very difficult to make accurate estimates of what the costs to society would be if large amounts of counterfeit currency circulated widely.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 5,
+  "source_folder": "data/local_images/lsat102/section2/q5",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

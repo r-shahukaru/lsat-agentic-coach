@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s4-q14",
+  "question": "We have a moral obligation not to destroy books, even if they belong to us. The reason is quite simple: If preserved, books will almost certainly contribute to the intellectual and emotional enrichment of future generations.\n\n----- PAGE BREAK -----\n\n14. Which one of the following most accurately expresses the principle underlying the argument?\n\nA) It is morally incumbent upon us to devote effort to performing actions that have at least some chance of improving other people's lives.\nB) We are morally obligated to preserve anything that past generations had preserved for our intellectual and emotional enrichment.\nC) The moral commitments we have to future generations supersede the moral commitments we have to the present generation.\nD) We are morally obligated not to destroy anything that will most likely enrich, either intellectually or emotionally, our posterity.\nE) Being morally obligated not to destroy something requires that we be reasonably assured that that thing will lead to the betterment of someone we know.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 14,
+  "source_folder": "data/local_images/lsat102/section4/q14",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

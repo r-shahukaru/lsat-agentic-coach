@@ -1,0 +1,121 @@
+{
+  "run_started_at": "2026-01-31T19:08:10.965303+00:00",
+  "input_root": "data/processed/user01/lsat102",
+  "user_id": "user01",
+  "total_images": 10,
+  "ok": 10,
+  "fail": 0,
+  "items": [
+    {
+      "status": "OK",
+      "image": "test2-1-passage.png",
+      "path": "data/processed/user01/lsat102/section1/q1/test2-1-passage.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q1/test2-1-passage.png",
+        "question_id": "temp_qid",
+        "stem": "Most office workers assume that the messages they send to each other via electronic mail are as private as a telephone call or a face-to-face meeting: That assumption is wrong: Although it is illegal in many areas for an employer to eavesdrop on private conversations or telephone calls ~even if they take place on a company-owned telephone ~there are no clear rules governing electronic mail. In fact; the question of how private electronic mail transmissions should be has emerged as one of the more complicated legal issues of the electronic age. People's opinions about the degree of privacy that electronic mail should have vary depending on whose electronic mail system is being used and who is reading the messages. Does a government office, for example, have the right to destroy electronic messages created in the course of running the government;, thereby denying public access to such documents? Some hold that government offices should issue guidelines that allow their staff to delete such electronic records, and defend this practice by claiming that the messages thus deleted already exist in paper versions whose destruction is forbidden: Opponents of such practices argue that the paper versions often omit such information as who received the messages and when they received them, information commonly carried on electronic mail systems. Government officials, opponents maintain, are civil servants; the public should thus have the right to review any documents created during the conducting of government business\nQuestions about electronic mail privacy have also arisen in the private sector Recently, two employees of an automotive company were discovered to have been communicating disparaging information about their supervisor via electronic mail: The supervisor; who had been monitoring the communication, threatened to fire the employees When the employees filed a grievance complaining that their privacy had been violated, they were let go. Later; their court case for unlawful termination was dismissed; the company's lawyers successfully argued that because the company owned the computer system, its supervisors had the right to read anything created on it.\nIn some areas, laws prohibit outside interception of electronic mail by a third party without proper authorization such as a search warrant. However; these laws do not cover \"inside\" interception such as occurred at the automotive company: In the past, courts have ruled that interoffice communications may be considered private only if employees have a \"reasonable expectation\" of privacy when they send the messages. The fact is that no absolute guarantee of privacy exists in any computer system: The only solution may be for users to scramble their own messages with encryption codes; unfortunately, such complex codes are likely to undermine the principal virtue of electronic mail: its convenience_",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "test2-2-1-mcq.png",
+      "path": "data/processed/user01/lsat102/section1/q1/test2-2-1-mcq.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q1/test2-2-1-mcq.png",
+        "question_id": "temp_qid",
+        "stem": "1. Which one of the following statements most accurately summarizes the main point of the passage?\nUntil the legal questions surrounding the privacy of electronic mail in both the public and private sectors have been resolved, office workers will need to scramble their electronic mail messages with encryption codes.\nThe legal questions surrounding the privacy of electronic mail in the workplace can best be resolved by treating such communications as if they were as private as telephone conversations or face-to-face meetings.\nAny attempt to resolve the legal questions surrounding the privacy of electronic mail in the workplace must take into account the essential difference between public- sector and private-sector business.\nAt present; in both the public and private sectors, there seem to be no clear general answers to the legal questions surrounding the privacy of electronic mail in the workplace.",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "test2-2-2-mcq.png",
+      "path": "data/processed/user01/lsat102/section1/q1/test2-2-2-mcq.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q1/test2-2-2-mcq.png",
+        "question_id": "temp_qid",
+        "stem": "The legal questions surrounding the privacy of electronic mail in the workplace can best be resolved by allowing supervisors in public-sector but not private- sector offices to monitor their employees' communications:",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "Screenshot 2026-01-17 at 9.46.45\u202fPM.png",
+      "path": "data/processed/user01/lsat102/section1/q10/Screenshot 2026-01-17 at 9.46.45\u202fPM.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q10/Screenshot 2026-01-17 at 9.46.45\u202fPM.png",
+        "question_id": "temp_qid",
+        "stem": "While a new surge of critical interest in the ancient Greek poems conventionally ascribed to Homer has taken place in the last twenty years or so, it was nonspecialists rather than professional scholars who studied the poetic aspects of the Iliad and the Odyssey between, roughly; 1935 and 1970. During these years, while such nonacademic intellectuals as Simone Weil and Erich Auerbach were trying to define the qualities that made these epic accounts of the Trojan War and its aftermath great poetry; the questions that occupied the specialists were directed elsewhere: \"Did the Trojan War really happen?\" Does the bard preserve Indo-European folk memories?\" 'How did the poems get written down?\" Something was driving scholars away from the actual works to peripheral issues. Scholars produced books about archaeology, about gift-exchange in ancient societies, about the development of oral poetry, about virtually anything except the Iliad and the Odyssey themselves as unique reflections or distillations of life itself as, in short; great poetry: The observations of the English poet Alexander Pope seemed as applicable in 1970 as they had been when he wrote them in 1715: according to Pope, the remarks of critics \"are rather Philosophical, Historical, Geographical or rather anything than Critical and Poetical:\"\nthousand years ago, were the products of a long and highly developed tradition of oral poetry about the Trojan War: Parry proposed that this tradition built up its diction and its content by a process of constant accumulation and refinement over many generations of storytellers. But after Parry's death in 1935, his legacy was taken up by scholars who, unlike Parry; forsook intensive analysis of the poetry itself and focused instead on only one element of Parry's work: the creative limitations and possibilities of oral composition, concentrating on fixed elements and inflexibilities, focusing on the things that oral poetry allegedly can and cannot do. The dryness of this kind of study drove many of the more inventive scholars away from the poems into the rapidly developing field of Homer's archaeological and historical background: Appropriately; Milman Parry's son Adam was among those scholars responsible for a renewed interest in Homer's poetry as literary art. Building on his father's work; the younger Parry argued that the Homeric poems exist both within and against a tradition_ The Iliad and the Odyssey were, Adam Parry thought; the beneficiaries of an inherited store of diction, scenes, and concepts, and at the same time highly individual works that surpassed these conventions. Adam Parry helped prepare the ground for the recent Homeric revival by affirming his father's belief in a strong inherited tradition, but also by emphasizing Homer's unique contributions within that tradition:\nIronically; the modern manifestation of this \"nonpoetical\" emphasis can be traced to the profoundly influential work of Milman Parry; who attempted to demonstrate in detail how the Homeric poems, believed to have been recorded nearly three",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "Screenshot 2026-01-17 at 9.46.55\u202fPM.png",
+      "path": "data/processed/user01/lsat102/section1/q10/Screenshot 2026-01-17 at 9.46.55\u202fPM.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q10/Screenshot 2026-01-17 at 9.46.55\u202fPM.png",
+        "question_id": "temp_qid",
+        "stem": "10_ The passage suggests which one of the following about scholarship on Homer that has appeared since 1970?\nIt has dealt extensively with the Homeric poems as literary art:\nB\nIt is more incisive than the work of the Parrys.\nIt has rejected as irrelevant the scholarship produced by specialists between 1935 and 1970.\nD\nIt has ignored the work of Simone Weil and Erich Auerbach:\nIt has attempted to confirm that the Iliad and the Odyssey were written by Homer:",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "Screenshot 2026-01-17 at 9.47.39\u202fPM.png",
+      "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.47.39\u202fPM.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.47.39\u202fPM.png",
+        "question_id": "temp_qid",
+        "stem": "While a new surge of critical interest in the ancient Greek poems conventionally ascribed to Homer has taken place in the last twenty years or SO, it was nonspecialists rather than professional scholars who studied the poetic aspects of the Iliad and the Odyssey between, roughly, 1935 and 1970. During these years, while such nonacademic intellectuals as Simone Weil and Erich Auerbach were trying to define the qualities that made these epic accounts of the Trojan War and its aftermath great poetry; the questions that occupied the specialists were directed elsewhere: Did the Trojan War really happen?\" Does the bard preserve Indo-European folk memories?\" 'How did the poems get written down?\" Something was driving scholars away from the actual works to peripheral issues. Scholars produced books about archaeology, about gift- exchange in ancient societies, about the development of oral poetry, about virtually anything except the Iliad and the Odyssey themselves as unique reflections or distillations of life itself_ as, in short, great poetry: The observations of the English poet Alexander Pope seemed as applicable in 1970 as they had been when he wrote them in 1715: according to Pope, the remarks of critics are rather Philosgphical,_Historical,_Geographical _ or rather anything than Critical and Poetical \"",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "Screenshot 2026-01-17 at 9.48.02\u202fPM.png",
+      "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.48.02\u202fPM.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.48.02\u202fPM.png",
+        "question_id": "temp_qid",
+        "stem": "Ironically, the modern manifestation of this \"nonpoetical\" emphasis can be traced to the profoundly influential work of Milman Parry; who attempted to demonstrate in detail how the Homeric poems, believed to have been recorded nearly three thousand years ago, were the products of a long and highly developed tradition of oral poetry about the Trojan War: Parry proposed that this tradition built up its diction and its content by a process of constant accumulation and refinement over many generations of storytellers: But after Parry's death in 1935, his legacy was taken up by scholars who, unlike Parry; forsook intensive analysis of the poetry itself and focused instead on only one element of Parry's work: the creative limitations and possibilities of oral composition, concentrating on fixed elements and inflexibilities, focusing on the things that oral poetry allegedly can and cannot do. The dryness of this kind of study drove many of the more inventive scholars away from the poems into the rapidly developing field of Homer's archaeological and historical background:",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "Screenshot 2026-01-17 at 9.48.12\u202fPM.png",
+      "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.48.12\u202fPM.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.48.12\u202fPM.png",
+        "question_id": "temp_qid",
+        "stem": "Appropriately, Milman Parry's son Adam was among those scholars responsible for a renewed interest in Homer's poetry as literary art: Building on his father's work; the younger Parry argued that the Homeric poems exist both within and against a tradition. The Iliad and the Odyssey were, Adam Parry thought; the beneficiaries of an inherited store of diction, scenes, and concepts, and at the same time highly individual works that surpassed these conventions. Adam Parry helped prepare the ground for the recent Homeric revival by affirming his father's belief in a strong inherited tradition, but also by emphasizing Homer's unique contributions within that tradition.",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "Screenshot 2026-01-17 at 9.48.23\u202fPM.png",
+      "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.48.23\u202fPM.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q11/Screenshot 2026-01-17 at 9.48.23\u202fPM.png",
+        "question_id": "temp_qid",
+        "stem": "11_ The author of the passage most probably quotes Alexander Pope (end of the first paragraph) in order to\nindicate that the Homeric poems have generally received poor treatment at the hands of English critics\nprove that poets as well as critics have emphasized elements peripheral to the poems\nillustrate that the nonpoetical emphasis also existed in an earlier century\nemphasize the problems inherent in rendering classical Greek poetry into modern English\nargue that poets and literary critics have seldom agreed about the interpretation of poetry",
+        "subtype": "assumption"
+      }
+    },
+    {
+      "status": "OK",
+      "image": "Screenshot 2026-01-17 at 9.46.45\u202fPM.png",
+      "path": "data/processed/user01/lsat102/section1/q12/Screenshot 2026-01-17 at 9.46.45\u202fPM.png",
+      "result": {
+        "path": "data/processed/user01/lsat102/section1/q12/Screenshot 2026-01-17 at 9.46.45\u202fPM.png",
+        "question_id": "temp_qid",
+        "stem": "While a new surge of critical interest in the ancient Greek poems conventionally ascribed to Homer has taken place in the last twenty years or so, it was nonspecialists rather than professional scholars who studied the poetic aspects of the Iliad and the Odyssey between, roughly; 1935 and 1970. During these years, while such nonacademic intellectuals as Simone Weil and Erich Auerbach were trying to define the qualities that made these epic accounts of the Trojan War and its aftermath great poetry; the questions that occupied the specialists were directed elsewhere: \"Did the Trojan War really happen?\" Does the bard preserve Indo-European folk memories?\" 'How did the poems get written down?\" Something was driving scholars away from the actual works to peripheral issues. Scholars produced books about archaeology, about gift-exchange in ancient societies, about the development of oral poetry, about virtually anything except the Iliad and the Odyssey themselves as unique reflections or distillations of life itself as, in short; great poetry: The observations of the English poet Alexander Pope seemed as applicable in 1970 as they had been when he wrote them in 1715: according to Pope, the remarks of critics \"are rather Philosophical, Historical, Geographical or rather anything than Critical and Poetical:\"\nthousand years ago, were the products of a long and highly developed tradition of oral poetry about the Trojan War: Parry proposed that this tradition built up its diction and its content by a process of constant accumulation and refinement over many generations of storytellers. But after Parry's death in 1935, his legacy was taken up by scholars who, unlike Parry; forsook intensive analysis of the poetry itself and focused instead on only one element of Parry's work: the creative limitations and possibilities of oral composition, concentrating on fixed elements and inflexibilities, focusing on the things that oral poetry allegedly can and cannot do. The dryness of this kind of study drove many of the more inventive scholars away from the poems into the rapidly developing field of Homer's archaeological and historical background: Appropriately; Milman Parry's son Adam was among those scholars responsible for a renewed interest in Homer's poetry as literary art. Building on his father's work; the younger Parry argued that the Homeric poems exist both within and against a tradition_ The Iliad and the Odyssey were, Adam Parry thought; the beneficiaries of an inherited store of diction, scenes, and concepts, and at the same time highly individual works that surpassed these conventions. Adam Parry helped prepare the ground for the recent Homeric revival by affirming his father's belief in a strong inherited tradition, but also by emphasizing Homer's unique contributions within that tradition:\nIronically; the modern manifestation of this \"nonpoetical\" emphasis can be traced to the profoundly influential work of Milman Parry; who attempted to demonstrate in detail how the Homeric poems, believed to have been recorded nearly three",
+        "subtype": "assumption"
+      }
+    }
+  ],
+  "run_finished_at": "2026-01-31T19:08:44.124190+00:00"
+}

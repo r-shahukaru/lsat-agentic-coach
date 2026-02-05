@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q18",
+  "question": "President of Central Supply Company: Profits are at an all-time low this fiscal year because of decreased demand for our products. If this situation continues, the company may have to declare bankruptcy. So it is important to prevent any further decrease in profits. Consequently, the only options are to reduce planned expansion or to eliminate some less profitable existing operations.\n\n----- PAGE BREAK -----\n\n18. Which one of the following most accurately describes a flaw in the company president's reasoning?\n\nA) It presumes without giving justification that survival of the company has been a good thing.\nB) It does not take into account that there are alternatives to declaring bankruptcy.\nC) It presumes without giving justification that only decreased demand can ever be the cause of decreased profits.\nD) It does not allow for the possibility that profits will decrease only slightly during the next fiscal year.\nE) It does not take into account that there may be other ways to stop the decrease in profits.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 18,
+  "source_folder": "data/local_images/lsat102/section2/q18",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

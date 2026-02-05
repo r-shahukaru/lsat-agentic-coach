@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s3-q07",
+  "question": "A commonly accepted myth is that left-handed people are more prone to cause accidents than are right-handed people. But this is, in fact, just a myth, as is indicated by the fact that more household accidents are caused by right-handed people than are caused by left-handed people.\n\n----- PAGE BREAK -----\n\n7. The reasoning is flawed because the argument\n\nA) makes a distinction where there is no real difference between the things distinguished\nB) takes no account of the relative frequency of left-handed people in the population as a whole\nC) uses the word \"accidents\" in two different senses\nD) ignores the possibility that some household accidents are caused by more than one person\nE) gives wholly irrelevant evidence and simply disparages an opposing position by calling it a \"myth\"",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s3",
+  "question_no": 7,
+  "source_folder": "data/local_images/lsat102/section3/q7",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s2-q03",
+  "question": "Many people limit the intake of calories and cholesterol in their diet in order to lose weight and reduce the level of cholesterol in their blood. When a person loses weight, the fat cells in that person's body decrease in size but not in number. As they decrease in size, fat cells spill the cholesterol they contain into the bloodstream. Therefore, a person who goes on a low-calorie, low-cholesterol diet .\n\n----- PAGE BREAK -----\n\n3. Which one of the following most logically completes the argument?\n\nA) might at first have an increased level of cholesterol in his or her blood\nB) will not lose weight any faster than will a person whose diet is high in calories\nC) might lose more weight by going on a low-calorie, high-cholesterol diet than by going on the low-calorie, low-cholesterol diet\nD) will not decrease the size of his or her fat cells\nE) will both decrease the level of cholesterol in his or her blood and gain weight",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 3,
+  "source_folder": "data/local_images/lsat102/section2/q3",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

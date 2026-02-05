@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s4-q04",
+  "question": "Columnist: The country is presently debating legislation that, if passed, would force manufacturers to increase the number of paid vacation days for employees, to pay higher overtime wages, and to pay all day-care expenses for children of each employee. This legislation is being supported by members of groups that have resorted to violent tactics in the past, and by individuals who are facing indictment on tax-evasion charges. We must defeat this legislation and what it stands for.\n\n----- PAGE BREAK -----\n\n4. The columnist's argument is flawed because it\n\nA) attacks legislation by calling into question the integrity of the originators of the legislation\nB) assails legislation on the basis of the questionable character of supporters of the legislation\nC) attempts to discredit legislation by appealing to public sentiment for those who would be adversely affected\nD) presupposes that legislation is bad legislation whenever it has only a small number of supporters outside the country's national legislative body\nE) rejects legislation on the grounds that its supporters act inconsistently in seeking to place burdens on manufacturers upon whose business success the supporters depend",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 4,
+  "source_folder": "data/local_images/lsat102/section4/q4",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

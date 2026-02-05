@@ -1,0 +1,15 @@
+{
+  "user_id": "user01",
+  "mcq_id": "lsat102-s2-q09",
+  "timestamp_utc": "2026-02-05T04:36:56.449983Z",
+  "selected": "A",
+  "is_correct": false,
+  "confidence": 2,
+  "time_spent_sec": 205,
+  "notes": "Because the passage's conclusion is that the company's warnings were wrong.",
+  "mode": "practice",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 9,
+  "correct_answer": "E"
+}

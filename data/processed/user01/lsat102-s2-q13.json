@@ -1,0 +1,22 @@
+{
+  "question_id": "lsat102-s2-q13",
+  "question": "Numismatist: In medieval Spain, most gold coins were minted from gold mined in West Africa, in the area that is now Senegal. The gold mined in this region was the purest known. Its gold content of 92 percent allowed coins to be minted without refining the gold, and indeed coins minted from this source of gold can be recognized because they have that gold content. The mints could refine gold and produced other kinds of coins that had much purer gold content, but the Senegalese gold was never refined.\n\n----- PAGE BREAK -----\n\n13. Which one of the following inferences about gold coins minted in medieval Spain is most strongly supported by the information the numismatist gives?\n\nA) Coins minted from Senegalese gold all contained the same weight, as well as the same proportion, of gold.\nB) The source of some refined gold from which coins were minted was unrefined gold with a gold content of less than 92 percent.\nC) Two coins could have the same monetary value even though they differed from each other in the percentage of gold they contained.\nD) No gold coins were minted that had a gold content of less than 92 percent.\nE) The only unrefined gold from which coins could be minted was Senegalese gold.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 13,
+  "source_folder": "data/local_images/lsat102/section2/q13",
+  "parts": [
+    "p.png",
+    "mcq-1.png",
+    "mcq-2.png"
+  ]
+}

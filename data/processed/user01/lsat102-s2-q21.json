@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s2-q21",
+  "question": "If this parking policy is unpopular with the faculty, then we should modify it. If it is unpopular among students, we should adopt a new policy. And, it is bound to be unpopular either with the faculty or among students.\n\n----- PAGE BREAK -----\n\n21. If the statements above are true, which one of the following must also be true?\n\nA) We should attempt to popularize this parking policy among either the faculty or students.\nB) We should modify this parking policy only if this will not reduce its popularity among students.\nC) We should modify this parking policy if modification will not reduce its popularity with the faculty.\nD) If this parking policy is popular among students, then we should adopt a new policy.\nE) If this parking policy is popular with the faculty, then we should adopt a new policy.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s2",
+  "question_no": 21,
+  "source_folder": "data/local_images/lsat102/section2/q21",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

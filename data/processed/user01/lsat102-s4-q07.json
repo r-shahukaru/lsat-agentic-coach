@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q07",
+  "question": "Consumers will be hurt by the new lower ceilings on halibut catches. Given the law of supply and demand these restrictions are likely to result in an increase in the price of the fish.\n\n----- PAGE BREAK -----\n\n7. Which one of the following, if assumed, would do most to justify the claim that the price of halibut will increase?\n\nA) The demand for halibut will not decrease substantially after the new restrictions are imposed.\nB) There is a connection between the supply of halibut and the demand for it.\nC) The lost production of halibut will not be replaced by increased production of other fish.\nD) The demand for other fish will be affected by the new restrictions.\nE) The amount of halibut consumed represents a very small proportion of all fish consumed.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 7,
+  "source_folder": "data/local_images/lsat102/section4/q7",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

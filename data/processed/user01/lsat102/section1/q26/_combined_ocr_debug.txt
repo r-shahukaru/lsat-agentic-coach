@@ -1,0 +1,69 @@
+Scientists typically advocate the analytic method of studying
+entity, it is not necessarily true that such characteristics will
+complex systems: systems are divided into component parts
+define the entity; it is possible for the entity to enter into a
+that are investigated separately. But nineteenth-century critics of
+relationship yet remain essentially unchanged.
+this method claimed that when a system's parts are isolated its
+complexity tends to be lost. To address the perceived
+The ultimate difficulty with the theory of internal relations is
+weaknesses of the analytic method these critics put forward a
+that it renders the acquisition of knowledge impossible. To truly
+concept called organicism, which posited that the whole
+know an entity, we must know all of its relationships; but
+determines the nature of its parts and that the parts of a whole
+because the entity is related to everything in each whole of
+are interdependent.
+which it is a part, these wholes must be known completely
+before the entity can be known. This seems to be a prerequisite
+Organicism depended upon the theory of internal relations,
+impossible to satisfy.
+which states that relations between entities are possible only
+within some whole that embraces them, and that entities are
+Organicists' criticism of the analytic method arose from their
+altered by the relationships into which they enter. If an entity
+failure to fully comprehend the method. In rejecting the analytic
+stands in a relationship with another entity, it has some property
+method, organicists overlooked the fact that before the
+as a consequence. Without this relationship, and hence without
+proponents of the method analyzed the component parts of a
+the property, the entity would be different-and so would be
+system, they first determined both the laws applicable to the
+another entity. Thus, the property is one of the entity's defining
+whole system and the initial conditions of the system;
+characteristics. Each of an entity's relationships likewise
+proponents of the method thus did not study parts of a system in
+determines a defining characteristic of the entity.
+full isolation from the system as a whole. Since organicists failed
+to recognize this, they never advanced any argument to show
+One problem with the theory of internal relations is that not all
+that laws and initial conditions of complex systems cannot be
+properties of an entity are defining characteristics: numerous
+discovered. Hence, organicists offered no valid reason for
+properties are accompanying characteristics-even if they are
+rejecting the analytic method or for adopting organicism as a
+always present, their presence does not influence the entity's
+identity. Thus, even if it is admitted that every relationship into
+replacement for it.
+which an entity enters determines some characteristic of the
+
+----- PAGE BREAK -----
+
+26. Which one of the following is a principle upon which the
+author bases an argument against the theory of internal
+relations?
+A An adequate theory of complex systems must define the
+entities of which the system is composed.
+B
+An acceptable theory cannot have consequences that
+contradict its basic purpose.
+C
+An adequate method of study of complex systems should
+reveal the actual complexity of the systems it studies.
+D
+An acceptable theory must describe the laws and initial
+conditions of a complex system.
+E
+An acceptable method of studying complex systems
+should not study parts of the system in isolation from the
+system as a whole.

@@ -1,0 +1,21 @@
+{
+  "question_id": "lsat102-s4-q15",
+  "question": "The southern half of a certain region of the earth was covered entirely by water during the Cretaceous period, the last 75 million years of the Mesozoic era, the era when dinosaurs roamed the earth. Dinosaurs lived only on land. Thus, plesiosaurs—swimming reptiles that lived during the Cretaceous period exclusively—were not dinosaurs. No single species of dinosaur lived throughout the entire Mesozoic era.\n\n----- PAGE BREAK -----\n\n15. If the statements in the passage are true, each of the following could be true EXCEPT:\n\nA) Dinosaurs inhabited the northern half of the region throughout the entire Mesozoic era.\nB) Plesiosaurs did not inhabit the southern half of the region during the Cretaceous period.\nC) Plesiosaurs did not inhabit the southern half of the region before the Cretaceous period.\nD) Dinosaurs did not inhabit the northern half of the region during the Cretaceous period.\nE) Dinosaurs inhabited the southern half of the region throughout the entire Mesozoic era.",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "answer": null,
+  "subtype": "assumption",
+  "exam": "lsat102",
+  "section": "s4",
+  "question_no": 15,
+  "source_folder": "data/local_images/lsat102/section4/q15",
+  "parts": [
+    "p.png",
+    "mcq.png"
+  ]
+}

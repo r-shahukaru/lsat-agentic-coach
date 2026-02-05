@@ -1,0 +1,140 @@
+{
+  "started_at": "2026-02-04T08:19:01.827600+00:00",
+  "section_dir": "data/local_images/lsat102/section4",
+  "user_id": "user01",
+  "ok": 26,
+  "fail": 0,
+  "items": [
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q1",
+      "question_id": "lsat102-s4-q01"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q2",
+      "question_id": "lsat102-s4-q02"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q3",
+      "question_id": "lsat102-s4-q03"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q4",
+      "question_id": "lsat102-s4-q04"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q5",
+      "question_id": "lsat102-s4-q05"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q6",
+      "question_id": "lsat102-s4-q06"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q7",
+      "question_id": "lsat102-s4-q07"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q8",
+      "question_id": "lsat102-s4-q08"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q9",
+      "question_id": "lsat102-s4-q09"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q10",
+      "question_id": "lsat102-s4-q10"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q11",
+      "question_id": "lsat102-s4-q11"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q12",
+      "question_id": "lsat102-s4-q12"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q13",
+      "question_id": "lsat102-s4-q13"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q14",
+      "question_id": "lsat102-s4-q14"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q15",
+      "question_id": "lsat102-s4-q15"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q16",
+      "question_id": "lsat102-s4-q16"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q17",
+      "question_id": "lsat102-s4-q17"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q18",
+      "question_id": "lsat102-s4-q18"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q19",
+      "question_id": "lsat102-s4-q19"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q20",
+      "question_id": "lsat102-s4-q20"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q21",
+      "question_id": "lsat102-s4-q21"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q22",
+      "question_id": "lsat102-s4-q22"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q23",
+      "question_id": "lsat102-s4-q23"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q24",
+      "question_id": "lsat102-s4-q24"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q25",
+      "question_id": "lsat102-s4-q25"
+    },
+    {
+      "status": "OK",
+      "folder": "data/local_images/lsat102/section4/q26",
+      "question_id": "lsat102-s4-q26"
+    }
+  ],
+  "finished_at": "2026-02-04T08:23:05.492491+00:00"
+}
