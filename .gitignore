@@ -1,0 +1,15 @@
+# ===== Secrets =====
+.env
+
+# OS junk
+.DS_Store
+__pycache__/
+*.pyc
+
+# ===== Local data =====
+data/
+rag_corpus/
+*.json
+
+# ===== Editor =====
+.vscode/
