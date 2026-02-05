@@ -1,7 +1,11 @@
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+def get_client():
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY not set")
+    return OpenAI(api_key=api_key)
 
 def build_tutor_prompt(question: str, options: dict, chosen: str, correct: str, subtype: str, mistake_summary: str) -> tuple[str, str]:
     system = (
@@ -28,7 +32,8 @@ def build_tutor_prompt(question: str, options: dict, chosen: str, correct: str, 
     )
     return system, user
 
-def tutor_response(system: str, user: str) -> str:
+def tutor_response(system, user):
+    client = get_client()
     resp = client.responses.create(
         model="gpt-4.1-mini",
         input=[
@@ -37,3 +42,4 @@ def tutor_response(system: str, user: str) -> str:
         ],
     )
     return resp.output_text
+
