@@ -1,0 +1,6 @@
+[theme]
+base = "light"
+primaryColor = "#2563eb"                  # blue-600
+backgroundColor = "#f8fafc"               # slate-50
+secondaryBackgroundColor = "#f1f5f9"      # slate-100
+textColor = "#0f172a"                     # slate-900
