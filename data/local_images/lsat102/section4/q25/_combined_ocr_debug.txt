@@ -1,0 +1,22 @@
+
+
+----- FILE: p.png -----
+The dwarf masked owl, a rare migratory bird of prey, normally makes its winter home on the Baja peninsula, where it nests in the spiny cactus. In fact, there are no other suitable nesting sites for the dwarf masked owl on the Baja peninsula. But a blight last spring destroyed all of the spiny cacti on the Baja peninsula. So unless steps are taken to reestablish the spiny cactus population, the dwarf masked owl will not make its home on the Baja peninsula this winter.
+
+----- FILE: mcq.png -----
+25. The argument depends on assuming which one of the following?
+
+A INCORRECT
+No birds of prey other than the dwarf masked owl nest in the spiny cactus.
+
+B INCORRECT
+If the Baja peninsula contains spiny cacti, then the dwarf masked owl makes its winter home there.
+
+C INCORRECT
+On occasion the dwarf masked owl has been known to make its winter home far from its normal migratory route.
+
+D INCORRECT
+The dwarf masked owl will not make its winter home on the Baja peninsula only if that region contains no spiny cacti.
+
+E CORRECT
+Suitable nesting sites must be present where the dwarf masked owl makes its winter home.

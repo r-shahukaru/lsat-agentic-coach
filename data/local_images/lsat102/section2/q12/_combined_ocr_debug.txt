@@ -1,0 +1,22 @@
+
+
+----- FILE: p.png -----
+It has long been thought that lizards evolved from a group of amphibians called anthracosaurs, no fossils of which have been found in any rocks older than 300 million years. However, a fossil of a lizard was recently found that is estimated to be 340 million years old. Lizards could not have evolved from creatures that did not exist until after the first lizards. Therefore, lizards could not have evolved from anthracosaurs.
+
+----- FILE: mcq.png -----
+12. An assumption made in the argument is that there are no
+
+A  CORRECT
+unknown anthracosaur fossils older than 340 million years
+
+B  INCORRECT
+unknown lizard fossils older than 340 million years
+
+C  INCORRECT
+known lizard fossils that predate some anthracosaur fossils
+
+D  INCORRECT
+known anthracosaur fossils that predate some lizard fossils
+
+E  INCORRECT
+known lizard fossils whose age is uncertain

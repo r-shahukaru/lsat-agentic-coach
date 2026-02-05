@@ -1,0 +1,2 @@
+E  CORRECT
+It does not take into account that there may be other ways to stop the decrease in profits.

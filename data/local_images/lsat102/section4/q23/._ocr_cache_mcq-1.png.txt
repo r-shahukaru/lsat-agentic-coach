@@ -1,0 +1,13 @@
+23. Which one of the following most accurately describes a flaw in the reasoning in the argument?
+
+A INCORRECT
+The argument contains no stated or implied relationship between computer scientists and those who appreciate the advances in technology in the last decade.
+
+B CORRECT
+The argument ignores the fact that some computer scientists may not appreciate the advances in technology made in the last decade.
+
+C INCORRECT
+The argument ignores the fact that computer scientists may appreciate other things besides the advances in technology made in the last decade.
+
+D INCORRECT
+The premises of the argument are stated in such a way that they exclude the possibility of drawing any logical conclusion.

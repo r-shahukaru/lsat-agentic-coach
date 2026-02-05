@@ -1,0 +1,11 @@
+26. Which one of the following is a principle upon which the author bases an argument against the theory of internal relations?
+
+A  An adequate theory of complex systems must define the entities of which the system is composed.
+
+B  An acceptable theory cannot have consequences that contradict its basic purpose.
+
+C  An adequate method of study of complex systems should reveal the actual complexity of the systems it studies.
+
+D  An acceptable theory must describe the laws and initial conditions of a complex system.
+
+E  An acceptable method of studying complex systems should not study parts of the system in isolation from the system as a whole.

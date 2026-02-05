@@ -1,0 +1,22 @@
+
+
+----- FILE: p.png -----
+Director of Ace Manufacturing Company: Our management consultant proposes that we reassign staff so that all employees are doing both what they like to do and what they do well. This, she says, will "increase productivity by fully exploiting our available resources." But Ace Manufacturing has a long-standing commitment not to exploit its workers. Therefore, implementing her recommendations would cause us to violate our own policy.
+
+----- FILE: mcq.png -----
+1. The director's argument for rejecting the management consultant's proposal is most vulnerable to criticism on which one of the following grounds?
+
+A CORRECT
+failing to distinguish two distinct senses of a key term
+
+B INCORRECT
+attempting to defend an action on the ground that it is frequently carried out
+
+C INCORRECT
+defining a term by pointing to an atypical example of something to which the term applies
+
+D INCORRECT
+drawing a conclusion that simply restates one of the premises of the argument
+
+E INCORRECT
+calling something by a less offensive term than the term that is usually used to name that thing

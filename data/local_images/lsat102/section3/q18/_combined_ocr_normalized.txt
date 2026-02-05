@@ -1,0 +1,11 @@
+In the past decade, a decreasing percentage of money spent on treating disease X went to pay for standard methods of treatment, which are known to be effective though they are expensive and painful. An increasing percentage is being spent on nonstandard treatments, which cause little discomfort. Unfortunately, the nonstandard treatments have proved to be ineffective. Obviously, less money is being spent now on effective treatments of disease X than was spent ten years ago.
+
+----- PAGE BREAK -----
+
+18. Which one of the following, if assumed, allows the conclusion above to be properly drawn?
+
+A) Varieties of disease X requiring expensive special treatment have become less common during the past decade.
+B) Nonstandard methods of treating disease X are more expensive now than they were a decade ago.
+C) Of total medical expenditures, the percentage that is due to treatment of disease X increased during the past decade.
+D) Most of the money spent on treating disease X during the last decade went to pay for nonstandard treatments.
+E) The total amount of money spent on treating disease X slowly declined during the past decade.

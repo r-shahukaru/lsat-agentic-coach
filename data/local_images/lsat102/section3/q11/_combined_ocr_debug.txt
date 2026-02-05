@@ -1,0 +1,24 @@
+
+
+----- FILE: p.png -----
+Carl: Researchers who perform operations on animals for experimental purposes are legally required to complete detailed pain protocols indicating whether the animals will be at risk of pain and, if so, what steps will be taken to minimize or alleviate it. Yet when human beings undergo operations, such protocols are never required. If lawmakers were as concerned about human beings as they seem to be about animals, there would be pain protocols for human beings too.
+
+Debbie: But consider this: a person for whom a doctor wants to schedule surgery can simply be told what pain to expect and can then decide whether or not to undergo the operation. So you see, pain protocols are unnecessary for human beings.
+
+----- FILE: mcq.png -----
+11. Debbie attempts to counter Carl's argument by
+
+A INCORRECT
+showing that one of the claims on which Carl bases his conclusion is inaccurate
+
+B CORRECT
+pointing out a relevant difference to undermine an analogy on which Carl bases his conclusion
+
+C INCORRECT
+claiming that Carl's argument should be rejected because it is based on an appeal to sentimentality rather than on reasoned principles
+
+D INCORRECT
+drawing an analogy that illustrates a major flaw in Carl's argument
+
+E INCORRECT
+offering a specific example to demonstrate that Carl's argument is based on a claim that can be neither confirmed nor disproved

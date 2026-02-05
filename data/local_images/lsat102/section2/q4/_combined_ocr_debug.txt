@@ -1,0 +1,19 @@
+
+
+----- FILE: p.png -----
+Advances in photocopying technology allow criminals with no printing expertise to counterfeit paper currency. One standard anticounterfeiting technique, microprinting, prints paper currency with tiny designs that cannot be photocopied distinctly. Although counterfeits of microprinted currency can be detected easily by experts, such counterfeits often circulate widely before being detected. An alternative, though more costly, printing technique would print currency with a special ink. Currency printed with the ink would change color depending on how ordinary light strikes it, whereas photocopied counterfeits of such currency would not. Because this technique would allow anyone to detect photocopied counterfeit currency easily, it should be adopted instead of microprinting, despite the expense.
+
+----- FILE: mcq.png -----
+4. Which one of the following, if true, provides the most support for the recommendation made by the argument?
+
+A CORRECT
+When an anticounterfeiting technique depends on the detection of counterfeits by experts, the cost of inspection by experts adds significantly to the cost to society of that technique.
+
+B INCORRECT
+For any anticounterfeiting technique to be effective, the existence of anticounterfeiting techniques should be widely broadcast, but the method by which counterfeits are detected should be kept secret.
+
+C INCORRECT
+The process of microprinting paper currency involves fewer steps than does the printing of paper currency with the special ink.
+
+D INCORRECT
+Before photocopying technology existed, most counterfeits of paper currency were accomplished by master engravers.

@@ -1,0 +1,13 @@
+6. Which one of the following is an assumption on which the physicians' reasoning depends?
+
+A INCORRECT
+All of the proteins present in disease-causing bacteria can be recognized by the body's immune system.
+
+B INCORRECT
+Localized skin irritations are a characteristic symptom of tuberculosis in most people.
+
+C CORRECT
+The ability of the proteins present in the tuberculosis bacterium to trigger the skin irritation is exclusive to that bacterium.
+
+D INCORRECT
+Some people who have been injected with proteins extracted from the tuberculosis bacterium will contract tuberculosis as a result of the injection.

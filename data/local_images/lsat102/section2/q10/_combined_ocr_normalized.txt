@@ -1,0 +1,11 @@
+Insects can see ultraviolet light and are known to identify important food sources and mating sites by sensing the characteristic patterns of ultraviolet light that these things reflect. Insects are also attracted to Glomosus spiderwebs, which reflect ultraviolet light. Thus, insects are probably attracted to these webs because of the specific patterns of ultraviolet light that these webs reflect.
+
+----- PAGE BREAK -----
+
+10. Which one of the following, if true, most strongly supports the argument?
+
+A) When webs of many different species of spider were illuminated with a uniform source of white light containing an ultraviolet component, many of these webs did not reflect the ultraviolet light.
+B) When the silks of spiders that spin silk only for lining burrows and covering eggs were illuminated with white light containing an ultraviolet component, the silks of these spiders reflected ultraviolet light.
+C) When webs of the comparatively recently evolved common garden spider were illuminated with white light containing an ultraviolet component, only certain portions of these webs reflected ultraviolet light.
+D) When Drosophila fruit flies were placed before a Glomosus web and a synthetic web of similar pattern that also reflected ultraviolet light and both webs were illuminated with white light containing an ultraviolet component, many of the fruit flies flew to the Glomosus web.
+E) When Drosophila fruit flies were placed before two Glomosus webs, one illuminated with white light containing an ultraviolet component and one illuminated with white light without an ultraviolet component, the majority flew to the ultraviolet reflecting web.

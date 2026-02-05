@@ -1,0 +1,16 @@
+16. If the essayist's statements are true, then each of the following could be true EXCEPT:
+
+A INCORRECT
+Most people are neither intelligent nor wise.
+
+B INCORRECT
+Most people are both intelligent and wise.
+
+C INCORRECT
+No one is both wise and intelligent.
+
+D CORRECT
+No one is either wise or intelligent.
+
+E INCORRECT
+Many people are intelligent and yet lack wisdom.

@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+The school principal insisted that student failures are caused by bad teaching. In a relatively short time failing grades disappeared from the school. The principal happily recognized this as evidence that the teaching had improved at the school.
+
+----- FILE: mcq-1.png -----
+12. The flawed pattern of reasoning in the above is most similar to that in which one of the following?
+
+A INCORRECT
+The nutritionist insisted that the weight gain that team members complained of was caused by overeating. In a brief time all the members stopped overeating. The nutritionist was pleased to conclude that they had stopped gaining weight.
+
+B INCORRECT
+The manager insisted that the workers who filed complaints had too many different tasks. The manager simplified the jobs, and complaints stopped. The manager happily concluded that the working environment had been improved.
+
+C INCORRECT
+The nutritionist insisted that the weight gain that team members complained of was merely in their imagination. Members were given weight charts for the last three months. The nutritionist was pleased to conclude that the complaints of weight gain had stopped.
+
+----- FILE: mcq-2.png -----
+D  CORRECT
+The manager insisted that the workers who filed complaints did not have enough to do. Soon there were no more complaints filed. The manager was pleased to conclude that the workers were now productively filling their time.
+
+E  INCORRECT
+The nutritionist insisted that the weight gain that team members complained of was caused by their thinking of food too often. The nutritionist was happy to conclude that the weight gain had stopped once the team members reported that they had stopped thinking of food so often.

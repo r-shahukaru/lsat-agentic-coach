@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+The Board of Trustees of the Federici Art Museum has decided to sell some works from its collection in order to raise the funds necessary to refurbish its galleries. Although this may seem like a drastic remedy, the curator has long maintained that among the paintings that the late Ms. Federici collected for the museum were several unsuccessful immature works by Renoir and Cézanne that should be sold because they are of inferior quality and so add nothing to the overall quality of the museum's collection. Hence, the board's action will not detract from the quality of the museum's collection.
+
+----- FILE: mcq-1.png -----
+10. Which one of the following, if true, most weakens the argument?
+
+A INCORRECT
+The directors of an art museum can generally raise funds for refurbishing the building in which the museum's collection is housed by means other than selling part of its collection.
+
+B CORRECT
+The quality of an art collection is determined not just by the quality of its paintings, but by what its collection demonstrates about the development of the artistic talent and ideas of the artists represented.
+
+C INCORRECT
+The immature works by Renoir and Cézanne that were purchased by Ms. Federici were at that time thought by some critics to be unimportant juvenile works.
+
+----- FILE: mcq-2.png -----
+D  INCORRECT
+Those people who speculate in art by purchasing artworks merely to sell them at much higher prices welcome inflation in the art market, but curators of art museums regret the inflation in the art market.
+
+E  INCORRECT
+The best work of a great artist demands much higher prices in the art market than the worst work of that same artist.

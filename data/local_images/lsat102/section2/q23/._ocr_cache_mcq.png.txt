@@ -1,0 +1,16 @@
+23. Which one of the following principles, if valid, most supports the politician's argument?
+
+A INCORRECT
+Only if a measure is required to solve a problem should it be adopted.
+
+B INCORRECT
+Only if a measure is sufficient to solve a problem should it be adopted.
+
+C CORRECT
+If a measure is required to solve a problem, then it should be adopted.
+
+D INCORRECT
+If a measure is sufficient to solve a problem, then it should be adopted.
+
+E INCORRECT
+If a measure is sufficient to solve a problem, any steps necessitated by that measure should be adopted.

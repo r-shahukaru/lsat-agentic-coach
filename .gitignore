@@ -8,10 +8,10 @@ __pycache__/
 
 # ===== Local data (keep outputs out, but keep small required assets) =====
 
-# Big/raw images (don’t commit)
-data/local_images/
-data/raw_images/
-data/screenshots/
+# # Big/raw images (don’t commit)
+# data/local_images/
+# data/raw_images/
+# data/screenshots/
 
 # # User data / logs (don’t commit)
 # data/user-attempts/

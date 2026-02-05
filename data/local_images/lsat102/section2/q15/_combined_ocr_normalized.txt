@@ -1,0 +1,11 @@
+Some plants have extremely sensitive biological thermometers. For example, the leaves of rhododendrons curl when the temperature of the air around them is below 0(C (Celsius). Similarly, mature crocus blossoms open in temperatures above 2(C. So someone who simultaneously observed rhododendrons with uncurled leaves, crocuses with mature but unopened blossoms, and a thermometer showing 1(C could determine that the thermometer's reading was accurate to within plus or minus 1(C.
+
+----- PAGE BREAK -----
+
+15. Which one of the following, if true, most seriously undermines the reasoning above?
+
+A) Neither rhododendrons nor crocuses bloom for more than a few weeks each year, and the blossoms of rhododendrons growing in any area do not appear until at least several weeks after crocuses growing in that area have ceased to bloom.
+B) Many people find it unpleasant to be outdoors for long periods when the temperature is at or about 1(C.
+C) The climate and soil conditions that favor the growth of rhododendrons are also favorable to the growth of crocuses.
+D) Air temperature surrounding rhododendrons, which can grow 12 feet tall, is likely to differ from air temperature surrounding crocuses, which are normally only a few inches high, by more than 2(C, even if the two plants are growing side by side.
+E) Certain types of thermometers that are commonly used to measure outdoor temperatures can be extremely accurate in moderate temperature ranges but much less accurate in warmer or colder temperature ranges.

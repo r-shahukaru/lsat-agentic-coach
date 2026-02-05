@@ -1,0 +1,11 @@
+Only computer scientists understand the architecture of personal computers, and only those who understand the architecture of personal computers appreciate the advances in technology made in the last decade. It follows that only those who appreciate these advances are computer scientists.
+
+----- PAGE BREAK -----
+
+23. Which one of the following most accurately describes a flaw in the reasoning in the argument?
+
+A) The argument contains no stated or implied relationship between computer scientists and those who appreciate the advances in technology in the last decade.
+B) The argument ignores the fact that some computer scientists may not appreciate the advances in technology made in the last decade.
+C) The argument ignores the fact that computer scientists may appreciate other things besides the advances in technology made in the last decade.
+D) The premises of the argument are stated in such a way that they exclude the possibility of drawing any logical conclusion.
+E) The premises of the argument presuppose that everyone understands the architecture of personal computers.

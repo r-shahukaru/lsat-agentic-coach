@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+Consumer advocate: Last year's worldwide alarm about a computer "virus"—a surreptitiously introduced computer program that can destroy other programs and data—was a fraud. Companies selling programs to protect computers against such viruses raised worldwide concern about the possibility that a destructive virus would be activated on a certain date. There was more smoke than fire, however; only about a thousand cases of damage were reported around the world. Multitudes of antivirus programs were sold, so the companies' warning was clearly only an effort to stimulate sales.
+
+----- FILE: mcq-1.png -----
+9. The reasoning in the consumer advocate's argument is flawed because this argument
+
+A INCORRECT
+restates its conclusion without attempting to offer a reason to accept it
+
+B INCORRECT
+fails to acknowledge that antivirus programs might protect against viruses other than the particular one described
+
+C INCORRECT
+asserts that the occurrence of one event after another shows that the earlier event was the cause of the later one
+
+D INCORRECT
+uses inflammatory language as a substitute for providing any evidence
+
+----- FILE: mcq-2.png -----
+E  CORRECT
+overlooks the possibility that the protective steps taken did work and, for many computers, prevented the virus from causing damage

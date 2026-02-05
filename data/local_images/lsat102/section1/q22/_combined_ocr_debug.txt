@@ -1,0 +1,26 @@
+
+
+----- FILE: p-1.png -----
+Scientists typically advocate the analytic method of studying complex systems: systems are divided into component parts that are investigated separately. But nineteenth-century critics of this method claimed that when a system’s parts are isolated its complexity tends to be lost. To address the perceived weaknesses of the analytic method these critics put forward a concept called organicism, which posited that the whole determines the nature of its parts and that the parts of a whole are interdependent.
+
+Organicism depended upon the theory of internal relations, which states that relations between entities are possible only within some whole that embraces them, and that entities are altered by the relationships into which they enter. If an entity stands in a relationship with another entity, it has some property as a consequence. Without this relationship, and hence without the property, the entity would be different—and so would be another entity. Thus, the property is one of the entity’s defining characteristics. Each of an entity’s relationships likewise determines a defining characteristic of the entity.
+
+One problem with the theory of internal relations is that not all properties of an entity are defining characteristics: numerous properties are accompanying characteristics—even if they are always present, their presence does not influence the entity’s identity. Thus, even if it is admitted that every relationship into which an entity enters determines some characteristic of the entity, it is not necessarily true that such characteristics will define the entity; it is possible for the entity to enter into a relationship yet remain essentially unchanged.
+
+The ultimate difficulty with the theory of internal relations is that it renders the acquisition of knowledge impossible. To truly know an entity, we must know all of its relationships; but because the entity is related to everything in each whole of which it is a part, these wholes must be known completely before the entity can be known. This seems to be a prerequisite impossible to satisfy.
+
+Organicists’ criticism of the analytic method arose from their failure to fully comprehend the method. In rejecting the analytic method, organicists overlooked the fact that before the proponents of the method analyzed the component parts of a system, they first determined both the laws applicable to the whole system and the initial conditions of the system; proponents of the method thus did not study parts of a system in full isolation from the system as a whole. Since organicists failed to recognize this, they never advanced any argument to show that laws and initial conditions of complex systems cannot be discovered. Hence, organicists offered no valid reason for rejecting the analytic method or for adopting organicism as a replacement for it.
+
+----- FILE: mcq-1.png -----
+22. Which one of the following most completely and accurately summarizes the argument of the passage?
+
+(A) By calling into question the possibility that complex systems can be studied in their entirety, organicists offered an alternative to the analytic method favored by nineteenth-century scientists.
+
+(B) Organicists did not offer a useful method of studying complex systems because they did not acknowledge that there are relationships into which an entity may enter that do not alter the entity's identity.
+
+(C) Organicism is flawed because it relies on a theory that both ignores the fact that not all characteristics of entities are defining and ultimately makes the acquisition of knowledge impossible.
+
+(D) Organicism does not offer a valid challenge to the analytic method both because it relies on faulty theory and because it is based on a misrepresentation of the analytic method.
+
+----- FILE: mcq-2.png -----
+E In criticizing the analytic method, organicists neglected to disprove that scientists who employ the method are able to discover the laws and initial conditions of the systems they study.

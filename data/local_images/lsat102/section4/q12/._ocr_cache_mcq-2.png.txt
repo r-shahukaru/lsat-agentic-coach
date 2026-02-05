@@ -1,0 +1,5 @@
+D  CORRECT
+The manager insisted that the workers who filed complaints did not have enough to do. Soon there were no more complaints filed. The manager was pleased to conclude that the workers were now productively filling their time.
+
+E  INCORRECT
+The nutritionist insisted that the weight gain that team members complained of was caused by their thinking of food too often. The nutritionist was happy to conclude that the weight gain had stopped once the team members reported that they had stopped thinking of food so often.

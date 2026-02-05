@@ -1,0 +1,9 @@
+1. Which one of the following statements most accurately summarizes the main point of the passage?
+
+(A) Until the legal questions surrounding the privacy of electronic mail in both the public and private sectors have been resolved, office workers will need to scramble their electronic mail messages with encryption codes.
+
+(B) The legal questions surrounding the privacy of electronic mail in the workplace can best be resolved by treating such communications as if they were as private as telephone conversations or face-to-face meetings.
+
+(C) Any attempt to resolve the legal questions surrounding the privacy of electronic mail in the workplace must take into account the essential difference between public-sector and private-sector business.
+
+(D) At present, in both the public and private sectors, there seem to be no clear general answers to the legal questions surrounding the privacy of electronic mail in the workplace.

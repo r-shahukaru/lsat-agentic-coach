@@ -1,0 +1,11 @@
+A company with long-outstanding bills owed by its customers can assign those bills to a collection agency that pays the company a fraction of their amount and then tries to collect payment from the customers. Since these agencies pay companies only 15 percent of the total amount of the outstanding bills, a company interested in reducing losses from long-outstanding bills would be well advised to pursue its debtors on its own.
+
+----- PAGE BREAK -----
+
+13. The argument depends on the assumption that
+
+A) a company that pursues its debtors on its own typically collects more than 15 percent of the total amount of the long-outstanding bills that it is owed
+B) the cost to a company of pursuing its debtors on its own for payment of long-outstanding bills does not exceed 15 percent of the total amount of those bills
+C) collection agencies that are assigned bills for collection by companies are unsuccessful in collecting, on average, only 15 percent of the total amount of those bills
+D) at least 15 percent of the customers that owe money to companies eventually pay their bills whether or not those bills are assigned to a collection agency
+E) unless most of the customers of a company pay their bills, that company in the long run will not be profitable

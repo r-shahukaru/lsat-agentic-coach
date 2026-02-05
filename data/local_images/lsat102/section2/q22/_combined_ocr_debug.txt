@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+It is an absurd idea that whatever artistic endeavor the government refuses to support it does not allow, as one can see by rephrasing the statement to read: No one is allowed to create art without a government subsidy.
+
+----- FILE: mcq-1.png -----
+22. The pattern of reasoning in which one of the following is most similar to that in the argument above?
+
+A  CORRECT
+The claim that any driver who is not arrested does not break the law is absurd, as one can see by rewording it: Every driver who breaks the law gets arrested.
+
+B  INCORRECT
+The claim that any driver who is not arrested does not break the law is absurd, as one can see by rewording it: Every driver who gets arrested has broken the law.
+
+C  INCORRECT
+The notion that every scientist who is supported by a government grant will be successful is absurd, as one can see by rewording it: No scientist who is successful is so without a government grant.
+
+----- FILE: mcq-2.png -----
+D INCORRECT
+The notion that every scientist who is supported by a government grant will be successful is absurd, as one can see by rewording it: No scientist lacking governmental support will be successful.
+
+E INCORRECT
+The notion that every scientist who has been supported by a government grant will be successful is absurd, as one can see by rewording it: No scientist is allowed to do research without a government grant.

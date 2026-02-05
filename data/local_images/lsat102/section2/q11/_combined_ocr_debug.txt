@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+A Habitat Conservation Plan (HCP) is based on a law that allows developers to use land inhabited by endangered species in exchange for a promise to preserve critical habitat or provide replacement land nearby. Some individuals of endangered species are lost in return for assurances by the owner or developer that habitat for those remaining animals will be protected. Environmentalists are pleased that HCPs allow them to win concessions from developers who would otherwise ignore rarely enforced environmental laws. Satisfied property owners prefer HCPs to more restrictive prohibitions of land use.
+
+----- FILE: mcq-1.png -----
+11. The situation described above most closely conforms to which one of the following principles?
+
+A  INCORRECT
+In order to avoid protracted legal battles environmentalists should compromise with developers.
+
+B  INCORRECT
+Developers should adhere only to those environmental laws that are not overburdensome.
+
+C  INCORRECT
+Laws should not be designed to serve the interests of all the parties concerned since they are often so weak that no one's interest is served well.
+
+D  CORRECT
+Laws should be fashioned in such a way as to reconcile the interests of developers and environmentalists.
+
+----- FILE: mcq-2.png -----
+E  INCORRECT
+The most effective means of preserving endangered species is to refrain from alienating property owners.

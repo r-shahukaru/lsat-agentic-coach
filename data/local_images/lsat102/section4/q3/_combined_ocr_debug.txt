@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+The manager of a nuclear power plant defended the claim that the plant was safe by revealing its rate of injury for current workers: only 3.2 injuries per 200,000 hours of work, a rate less than half the national average for all industrial plants. The manager claimed that, therefore, by the standard of how many injuries occur, the plant was safer than most other plants where the employees could work.
+
+----- FILE: mcq-1.png -----
+3. Which one of the following, if true, most calls into question the manager's claim?
+
+A INCORRECT
+Workers at nuclear power plants are required to receive extra training in safety precautions on their own time and at their own expense.
+
+B INCORRECT
+Workers at nuclear power plants are required to report to the manager any cases of accidental exposure to radiation.
+
+C INCORRECT
+The exposure of the workers to radiation at nuclear power plants was within levels the government considers safe.
+
+D INCORRECT
+Workers at nuclear power plants have filed only a few lawsuits against the management concerning unsafe working conditions.
+
+----- FILE: mcq-2.png -----
+E CORRECT
+Medical problems arising from work at a nuclear power plant are unusual in that they are not likely to appear until after an employee has left employment at the plant.

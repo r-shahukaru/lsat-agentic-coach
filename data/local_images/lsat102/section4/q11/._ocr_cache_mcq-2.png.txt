@@ -1,0 +1,5 @@
+D  CORRECT
+Performance of the stocks recommended on the television show was measured independently by a number of analysts, and the results of all the measurements concurred.
+
+E  INCORRECT
+The stock portfolios for which the guests were consultants performed better for the past 12-year period than the market as a whole.

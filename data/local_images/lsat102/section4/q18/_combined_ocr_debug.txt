@@ -1,0 +1,22 @@
+
+
+----- FILE: p.png -----
+Obviously, we cannot in any real sense mistreat plants. Plants do not have nervous systems, and having a nervous system is necessary to experience pain.
+
+----- FILE: mcq.png -----
+18. The conclusion above follows logically if which one of the following is assumed?
+
+A INCORRECT
+Any organism that can experience pain can be mistreated.
+
+B INCORRECT
+Only organisms that have nervous systems can experience pain.
+
+C INCORRECT
+Any organism that has a nervous system can experience pain.
+
+D CORRECT
+Only organisms that can experience pain can be mistreated.
+
+E INCORRECT
+Any organism that has a nervous system can be mistreated.

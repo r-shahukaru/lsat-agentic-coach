@@ -1,0 +1,16 @@
+8.  The argument is vulnerable to criticism on which one of the following grounds?
+
+A  CORRECT
+It concludes that something is never necessary on the grounds that it is not always necessary.
+
+B  INCORRECT
+A statement of fact is treated as if it were merely a statement of opinion.
+
+C  INCORRECT
+The conclusion is no more than a restatement of the evidence provided as support of that conclusion.
+
+D  INCORRECT
+The judgment of experts is applied to a matter in which their expertise is irrelevant.
+
+E  INCORRECT
+Some of the evidence presented in support of the conclusion is inconsistent with other evidence provided.

@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+At night, a flock of crows will generally perch close together in a small place—often a piece of wooded land—called a roost. Each morning, the crows leave the roost and fan out in small groups to hunt and scavenge the surrounding area. For most flocks, the crows' hunting extends as far as 100 to 130 kilometers (60 to 80 miles) from the roost. Normally, a flock will continue to occupy the same roost for several consecutive years, and when it abandons a roost site for a new one, the new roost is usually less than eight kilometers (five miles) away.
+
+----- FILE: mcq-1.png -----
+26. Of the following claims, which one can most justifiably be rejected on the basis of the statements above?
+
+A INCORRECT
+Crows will abandon their roost site only in response to increases in the population of the flock.
+
+B INCORRECT
+When there is a shortage of food in the area in which a flock of crows normally hunts and scavenges, some members of the flock will begin to hunt and scavenge outside that area.
+
+C INCORRECT
+Most of the hunting and scavenging that crows do occurs more than eight kilometers (five miles) from their roost.
+
+D INCORRECT
+Once a flock of crows has settled on a new roost site, it is extremely difficult to force it to abandon that site for another.
+
+----- FILE: mcq-2.png -----
+E CORRECT
+When a flock of crows moves to a new roost site, it generally does so because the area in which it has hunted and scavenged has been depleted of food sources.

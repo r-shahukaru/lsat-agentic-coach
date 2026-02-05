@@ -1,0 +1,11 @@
+5. It can be inferred from the passage that the author would most likely hold which one of the following opinions about an encryption system that could encode and decode electronic mail messages with a single keystroke?
+
+A It would be an unreasonable burden on a company's ability to monitor electronic mail created by its employees.
+
+B It would significantly reduce the difficulty of attempting to safeguard the privacy of electronic mail.
+
+C It would create substantial legal complications for companies trying to prevent employees from revealing trade secrets to competitors.
+
+D It would guarantee only a minimal level of employee privacy, and so would not be worth the cost involved in installing such a system.
+
+E It would require a change in the legal definition of "reasonable expectation of privacy" as it applies to employer-employee relations.

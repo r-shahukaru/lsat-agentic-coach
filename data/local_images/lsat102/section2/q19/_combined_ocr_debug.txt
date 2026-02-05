@@ -1,0 +1,26 @@
+
+
+----- FILE: p.png -----
+In all mammalian species, the period of a young mammal's life in which it is most frequently playful coincides with the period of most rapid growth of the neural connections in the mammal's brain that give rise to various complex patterns of movement, posture, and social response. Indeed, the neural connections created by frequent play during this period later become indispensable for the mammal's survival and well-being as an adult.
+
+----- FILE: mcq-1.png -----
+19. The statements above, if true, serve LEAST well as evidence for which one of the following?
+
+A  
+INCORRECT  
+Young mammals of species that are preyed on by other animals are likely to engage in forms of sudden mock flight, bolting away from locations where no predators are to be found.
+
+B  
+CORRECT  
+The young of nonmammalian species such as fish, reptiles, and birds do not normally engage in playful behavior that serves the function served by play in the development of young mammals.
+
+C  
+INCORRECT  
+Adult mammals are more likely to engage in interactive play with their young if they engaged in similar forms of play when they themselves were young.
+
+----- FILE: mcq-2.png -----
+D INCORRECT
+Mammals that cannot engage in certain common forms of play when young are likely to show certain deficits that limit their subsequent success as adults.
+
+E INCORRECT
+Young mammals of predatory species tend to practice in their play inoffensive versions of motions and actions that are useful in finding and catching prey when these mammals become adults.

@@ -1,0 +1,16 @@
+2. Which one of the following is an assumption on which the argument depends?
+
+A INCORRECT
+A person need not be a trained mechanic to install the device properly.
+
+B INCORRECT
+Most accidents are caused by inexperienced drivers.
+
+C CORRECT
+A driver seldom needs to exceed the speed limit to avoid an accident when none of the other drivers involved are violating the speed limit.
+
+D INCORRECT
+Most drivers who exceed the speed limit do so unintentionally.
+
+E INCORRECT
+Even if the fines for speed-limit violations were increased, the number of such violations would still not be reduced.

@@ -1,0 +1,22 @@
+
+
+----- FILE: p.png -----
+Politician: Nobody can deny that homelessness is a problem, yet there seems to be little agreement on how to solve it. One thing, however, is clear: ignoring the problem will not make it go away. Only if the government steps in and provides the homeless with housing will this problem disappear, and this necessitates increased taxation. For this reason, we should raise taxes.
+
+----- FILE: mcq.png -----
+23. Which one of the following principles, if valid, most supports the politician's argument?
+
+A INCORRECT
+Only if a measure is required to solve a problem should it be adopted.
+
+B INCORRECT
+Only if a measure is sufficient to solve a problem should it be adopted.
+
+C CORRECT
+If a measure is required to solve a problem, then it should be adopted.
+
+D INCORRECT
+If a measure is sufficient to solve a problem, then it should be adopted.
+
+E INCORRECT
+If a measure is sufficient to solve a problem, any steps necessitated by that measure should be adopted.

@@ -1,0 +1,24 @@
+
+
+----- FILE: p.png -----
+Ornithologist: The curvature of the claws of modern tree-dwelling birds enables them to perch in trees. The claws of Archeopteryx, the earliest known birdlike creature, show similar curvature that must have enabled the creature to perch on tree limbs. Therefore, Archeopteryx was probably a tree-dwelling creature.
+
+Paleontologist: No, the ability to perch in trees is not good evidence that Archeopteryx was a tree-dwelling bird. Chickens also spend time perched in trees, yet chickens are primarily ground-dwelling.
+
+----- FILE: mcq.png -----
+8. In responding to the ornithologist's hypothesis that Archeopteryx was tree-dwelling, the paleontologist
+
+A INCORRECT
+questions the qualifications of the ornithologist to evaluate the evidence
+
+B INCORRECT
+denies the truth of the claims the ornithologist makes in support of the hypothesis
+
+C CORRECT
+uses a parallel case to illustrate a weakness in the ornithologist's argument
+
+D INCORRECT
+shows that the hypothesis contradicts one of the pieces of evidence used to support it
+
+E INCORRECT
+provides additional evidence to support the ornithologist's argument

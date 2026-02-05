@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+In some ill-considered popularizations of interesting current research, it is argued that higher apes have the capacity for language but have never put it to use—a remarkable biological miracle, given the enormous selectional advantage of even minimal linguistic skills. It is rather like claiming that some animal has wings adequate for flight but has never thought to fly.
+
+----- FILE: mcq-1.png -----
+20. Which one of the following is most similar in its reasoning to the argument above?
+
+A INCORRECT
+Arguing that there are some humans who never sleep is rather like discovering a species of lion that does not eat meat.
+
+B INCORRECT
+Arguing that Earth has been visited by aliens from outer space is rather like claiming that early explorers had visited North America but never founded cities.
+
+C CORRECT
+Arguing that the human brain has telekinetic powers that no humans have ever exercised is rather like arguing that some insect has legs but never uses them to walk.
+
+D INCORRECT
+Claiming that some people raised tobacco but did not smoke it is rather like claiming that a society that knew how to brew alcohol never drank it.
+
+----- FILE: mcq-2.png -----
+E INCORRECT
+Arguing that not all people with cars will drive them is rather like claiming that humans invented gasoline long before they used it as fuel for transportation.

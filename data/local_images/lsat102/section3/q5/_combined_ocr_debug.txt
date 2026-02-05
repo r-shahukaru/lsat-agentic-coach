@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+Adults who work outside the home spend, on average, 100 minutes less time each week in preparing dinner than adults who do not work outside the home. But, contrary to expectation, comparisons show that the dinners eaten at home by the two groups of adults do not differ significantly with respect to nutritional value, variety of menus, or number of courses.
+
+----- FILE: mcq-1.png -----
+5. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?
+
+A INCORRECT
+The fat content of the dinners eaten at home by adults who do not work outside the home is 25 percent higher than national guidelines recommend.
+
+B INCORRECT
+Adults who do not work outside the home tend to prepare breakfast more often than adults who work outside the home.
+
+C INCORRECT
+Adults who work outside the home spend 2 hours less time per day on all household responsibilities, including dinner preparation, than do adults who do not work outside the home.
+
+D CORRECT
+Adults who work outside the home eat dinner at home 20 percent less often than do adults who do not work outside the home.
+
+----- FILE: mcq-2.png -----
+E INCORRECT
+Adults who work outside the home are less likely to plan dinner menus well in advance than are adults who do not work outside the home.

@@ -1,0 +1,25 @@
+
+
+----- FILE: p.png -----
+Congenial guests and a plentiful supply of good things to eat and drink will ensure a successful dinner party. Since Sylvia has prepared more than enough to eat and drink and her guests are all congenial people, her dinner party is certain to be a success.
+
+----- FILE: mcq-1.png -----
+22. The pattern of flawed reasoning exhibited by the argument above is most similar to that exhibited by which one of the following? 
+
+A INCORRECT
+The right ingredients, properly combined and baked in a reliable oven will always produce a well-baked cake. Since Emily has properly combined the right ingredients, her cake is certain to come out well if she bakes it in a reliable oven.
+
+B INCORRECT
+If corn is baked with its husks on, the resulting dish will always be moist and sweet. Since George wishes to ensure that the corn he plans to serve is moist, he will be certain both to bake it and to leave its husks on.
+
+C INCORRECT
+Making pie dough using ice water and thoroughly chilling the dough before rolling it out will ensure a flaky crust. Andrew thoroughly chilled his pie dough before rolling it out, so, since he used ice water in making it, his pie is certain to have a flaky crust.
+
+----- FILE: mcq-2.png -----
+D
+CORRECT
+If soup is made with a well-seasoned meat stock and fresh ingredients, it will always be welcome at dinner. Since to his meat stock Arnold added only very fresh ingredients, the resulting soup is certain to be welcome at dinner.
+
+E
+INCORRECT
+Fresh greens, carefully washed and served with a light dressing, always produce a refreshing salad. Since Tisha has developed an exceptionally light dressing but never washes her fresh greens, no salad she serves will be a refreshing one.

@@ -1,0 +1,5 @@
+D  CORRECT
+Air temperature surrounding rhododendrons, which can grow 12 feet tall, is likely to differ from air temperature surrounding crocuses, which are normally only a few inches high, by more than 2(C, even if the two plants are growing side by side.
+
+E  INCORRECT
+Certain types of thermometers that are commonly used to measure outdoor temperatures can be extremely accurate in moderate temperature ranges but much less accurate in warmer or colder temperature ranges.

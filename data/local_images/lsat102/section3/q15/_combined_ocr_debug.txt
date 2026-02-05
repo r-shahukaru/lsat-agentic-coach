@@ -1,0 +1,23 @@
+
+
+----- FILE: p.png -----
+Because of the lucrative but illegal trade in rhinoceros horns, a certain rhinoceros species has been hunted nearly to extinction. Therefore an effective way to ensure the survival of that species would be to periodically trim off the horns of all rhinoceroses, thereby eliminating the motivation for poaching.
+
+----- FILE: mcq-1.png -----
+15. Which one of the following is an assumption required by the argument?
+
+A  INCORRECT
+Most poachers who are discouraged from hunting rhinoceroses are not likely to hunt other animals for their horns.
+
+B  CORRECT
+At least some rhinoceroses whose horns are periodically trimmed off will be able to attract mates.
+
+C  INCORRECT
+Poachers hunt at least some immature rhinoceroses whose horns have not yet started to develop.
+
+D  INCORRECT
+The demand for rhinoceros horns will remain constant even if the supply decreases after the periodic trimming-off of the rhinoceros horns has begun.
+
+----- FILE: mcq-2.png -----
+E INCORRECT
+Rhinoceroses whose horns have been trimmed off are unable to defend themselves against predators.

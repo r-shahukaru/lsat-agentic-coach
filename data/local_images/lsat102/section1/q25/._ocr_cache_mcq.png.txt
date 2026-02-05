@@ -1,0 +1,11 @@
+25. The passage most strongly supports the ascription of which one of the following views to scientists who use the analytic method? 
+
+A  A complex system is best understood by studying its component parts in full isolation from the system as a whole.
+
+B  The parts of a system should be studied with an awareness of the laws and initial conditions that govern the system.
+
+C  It is not possible to determine the laws governing a system until the system's parts are separated from one another.
+
+D  Because the parts of a system are interdependent, they cannot be studied separately without destroying the system's complexity.
+
+E  Studying the parts of a system individually eliminates the need to determine which characteristics of the parts are defining characteristics.

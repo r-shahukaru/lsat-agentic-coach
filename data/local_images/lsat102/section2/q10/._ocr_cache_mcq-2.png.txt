@@ -1,0 +1,5 @@
+D  INCORRECT
+When Drosophila fruit flies were placed before a Glomosus web and a synthetic web of similar pattern that also reflected ultraviolet light and both webs were illuminated with white light containing an ultraviolet component, many of the fruit flies flew to the Glomosus web.
+
+E  CORRECT
+When Drosophila fruit flies were placed before two Glomosus webs, one illuminated with white light containing an ultraviolet component and one illuminated with white light without an ultraviolet component, the majority flew to the ultraviolet reflecting web.

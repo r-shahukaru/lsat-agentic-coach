@@ -1,0 +1,9 @@
+3. Which one of the following most accurately states the organization of the passage?
+
+A  A problem is introduced, followed by specific examples illustrating the problem; a possible solution is suggested, followed by an acknowledgment of its shortcomings.
+
+B  A problem is introduced, followed by explications of two possible solutions to the problem; the first solution is preferred to the second, and reasons are given for why it is the better alternative.
+
+C  A problem is introduced, followed by analysis of the historical circumstances that helped bring the problem about; a possible solution is offered and rejected as being only a partial remedy.
+
+D  A problem is introduced, followed by enumeration of various questions that need to be answered before a solution can be found; one possible solution is proposed and argued for.
